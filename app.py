@@ -1,3 +1,4 @@
+from pathlib import Path
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -18,9 +19,8 @@ st.caption("An interactive data analytics portfolio project | Sales, profit, pro
 
 @st.cache_data
 def load_data():
-    path = Path(__file__).parent / "data" / "sales_data.csv"
-    data = pd.read_csv(path, parse_dates=["Order_Date"])
-    return data
+    path = Path(__file__).parent / "sales_data.csv"
+    return pd.read_csv(path, parse_dates=["Order_Date"])
 
 df = load_data()
 
