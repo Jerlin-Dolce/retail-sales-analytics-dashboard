@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit,Customer_Type,Payment_Method
+ORD-1381,2024-01-04,West,Technology,Portable SSD,1,113.78,0.1,102.4,51.76,New,UPI
+ORD-1773,2024-01-04,South,Furniture,Office Chair,4,196.77,0.0,787.08,325.39,Returning,Credit Card
+ORD-1901,2024-01-04,West,Technology,Portable SSD,5,119.67,0.0,598.35,273.81,Returning,UPI
+ORD-1846,2024-01-04,North,Furniture,Standing Desk,5,420.69,0.15,1787.93,837.51,New,Debit Card
+ORD-1465,2024-01-05,West,Technology,Webcam HD,5,61.14,0.0,305.7,78.95,Returning,UPI
+ORD-1845,2024-01-05,North,Accessories,Laptop Sleeve,4,29.43,0.05,111.83,35.97,New,Debit Card
+ORD-1104,2024-01-06,South,Furniture,Office Chair,3,177.14,0.0,531.42,160.3,Returning,UPI
+ORD-2190,2024-01-06,East,Furniture,Desk Lamp,6,34.63,0.0,207.78,53.19,Returning,UPI
+ORD-1575,2024-01-06,South,Technology,Wireless Headphones,5,86.06,0.15,365.75,144.82,Returning,UPI
+ORD-1707,2024-01-06,South,Office Supplies,Notebook Pack,3,12.38,0.15,31.57,12.62,Returning,Net Banking
+ORD-2175,2024-01-07,North,Furniture,Desk Lamp,1,34.69,0.0,34.69,15.03,New,UPI
+ORD-1303,2024-01-08,West,Accessories,USB-C Hub,1,38.29,0.0,38.29,15.69,Returning,UPI
+ORD-2070,2024-01-08,North,Office Supplies,Notebook Pack,6,13.85,0.05,78.94,30.85,New,UPI
+ORD-1790,2024-01-09,West,Office Supplies,Pen Set,5,9.54,0.1,42.93,18.12,New,UPI
+ORD-1801,2024-01-09,South,Office Supplies,Notebook Pack,6,13.05,0.05,74.39,20.14,Returning,Credit Card
+ORD-2038,2024-01-11,Central,Technology,Portable SSD,2,113.75,0.0,227.5,106.28,Returning,UPI
+ORD-1839,2024-01-11,South,Office Supplies,Desk Organizer,3,23.0,0.0,69.0,33.44,Returning,Credit Card
+ORD-2121,2024-01-11,East,Office Supplies,Notebook Pack,1,13.25,0.0,13.25,4.47,New,Debit Card
+ORD-1410,2024-01-11,Central,Technology,Webcam HD,1,59.15,0.2,47.32,24.58,New,UPI
+ORD-1889,2024-01-12,West,Furniture,Bookshelf,4,129.22,0.0,516.88,214.79,Returning,Debit Card
+ORD-1415,2024-01-14,East,Accessories,Wireless Mouse,3,24.21,0.0,72.63,27.22,Returning,UPI
+ORD-1478,2024-01-14,North,Office Supplies,Desk Organizer,1,22.03,0.0,22.03,9.57,Returning,Credit Card
+ORD-1233,2024-01-15,West,Office Supplies,Desk Organizer,1,22.09,0.0,22.09,6.09,New,UPI
+ORD-1540,2024-01-16,West,Furniture,Bookshelf,6,136.54,0.0,819.24,254.23,Returning,UPI
+ORD-1300,2024-01-16,North,Furniture,Bookshelf,4,129.43,0.05,491.83,165.53,Returning,Credit Card
+ORD-1369,2024-01-17,Central,Furniture,Standing Desk,3,431.84,0.05,1230.74,600.55,Returning,UPI
+ORD-1170,2024-01-17,North,Accessories,Laptop Sleeve,6,32.25,0.15,164.47,60.18,Returning,UPI
+ORD-1272,2024-01-17,North,Accessories,Phone Stand,6,15.71,0.0,94.26,25.59,Returning,UPI
+ORD-2167,2024-01-17,North,Accessories,Wireless Mouse,4,25.71,0.0,102.84,39.1,Returning,Credit Card
+ORD-1821,2024-01-18,South,Office Supplies,Pen Set,3,9.42,0.05,26.85,6.96,Returning,Credit Card
+ORD-1429,2024-01-19,Central,Accessories,Wireless Mouse,6,25.64,0.1,138.46,53.39,Returning,UPI
+ORD-2180,2024-01-19,East,Office Supplies,Desk Organizer,1,23.54,0.2,18.83,5.06,Returning,UPI
+ORD-1454,2024-01-19,South,Technology,Portable SSD,6,113.78,0.1,614.41,223.73,Returning,Credit Card
+ORD-1830,2024-01-22,East,Technology,Portable SSD,3,125.4,0.1,338.58,141.5,Returning,Debit Card
+ORD-1138,2024-01-23,Central,Technology,Laptop Stand,5,46.59,0.2,186.36,49.01,New,UPI
+ORD-1787,2024-01-24,North,Office Supplies,Pen Set,4,8.73,0.1,31.43,15.78,New,Credit Card
+ORD-1385,2024-01-24,East,Furniture,Office Chair,3,201.49,0.1,544.02,233.84,New,Credit Card
+ORD-1663,2024-01-26,North,Technology,Wireless Headphones,6,74.37,0.05,423.91,121.53,New,Debit Card
+ORD-1147,2024-01-26,Central,Technology,Portable SSD,5,125.26,0.05,594.99,204.29,Returning,UPI
+ORD-1844,2024-01-27,North,Furniture,Standing Desk,4,398.5,0.0,1594.0,710.91,New,Credit Card
+ORD-1970,2024-01-27,North,Accessories,Laptop Sleeve,2,31.41,0.05,59.68,19.76,Returning,Credit Card
+ORD-1117,2024-01-28,West,Technology,Laptop Stand,2,42.31,0.0,84.62,30.97,New,UPI
+ORD-1328,2024-01-28,West,Furniture,Standing Desk,1,389.15,0.0,389.15,172.48,Returning,Debit Card
+ORD-1870,2024-01-30,South,Furniture,Standing Desk,2,426.84,0.1,768.31,335.17,Returning,Net Banking
+ORD-1902,2024-01-31,South,Accessories,Phone Stand,1,15.2,0.0,15.2,4.92,Returning,UPI
+ORD-2099,2024-01-31,North,Furniture,Standing Desk,4,420.33,0.15,1429.12,647.22,Returning,Debit Card
+ORD-2019,2024-01-31,East,Office Supplies,Printer Paper,3,6.86,0.1,18.52,5.59,Returning,UPI
+ORD-1250,2024-01-31,South,Office Supplies,Desk Organizer,1,23.44,0.0,23.44,11.61,Returning,Net Banking
+ORD-1817,2024-02-01,South,Accessories,Wireless Mouse,2,25.65,0.05,48.73,23.56,New,Debit Card
+ORD-1562,2024-02-01,South,Accessories,Phone Stand,2,15.61,0.05,29.66,12.57,Returning,UPI
+ORD-2110,2024-02-02,West,Technology,Webcam HD,1,64.55,0.0,64.55,23.68,New,Debit Card
+ORD-1397,2024-02-02,West,Office Supplies,Pen Set,4,9.65,0.15,32.81,10.81,Returning,UPI
+ORD-1056,2024-02-02,South,Technology,Laptop Stand,5,46.16,0.1,207.72,106.86,New,Debit Card
+ORD-1811,2024-02-02,West,Accessories,Wireless Mouse,6,23.82,0.1,128.63,44.1,Returning,Credit Card
+ORD-1352,2024-02-02,North,Office Supplies,Printer Paper,1,6.11,0.1,5.5,2.07,New,Credit Card
+ORD-1574,2024-02-06,East,Technology,Wireless Headphones,6,80.38,0.0,482.28,129.94,Returning,Debit Card
+ORD-1699,2024-02-06,East,Technology,Wireless Headphones,5,76.95,0.1,346.28,119.67,Returning,Credit Card
+ORD-1584,2024-02-07,East,Furniture,Desk Lamp,1,37.06,0.0,37.06,9.76,Returning,Net Banking
+ORD-1848,2024-02-07,South,Technology,Webcam HD,6,58.56,0.05,333.79,140.27,Returning,Credit Card
+ORD-1887,2024-02-08,South,Furniture,Desk Lamp,3,34.56,0.0,103.68,42.06,New,UPI
+ORD-1898,2024-02-09,South,Technology,Laptop Stand,6,46.48,0.0,278.88,85.41,Returning,Credit Card
+ORD-1546,2024-02-09,North,Technology,Portable SSD,1,115.07,0.05,109.32,49.63,New,UPI
+ORD-1542,2024-02-10,South,Office Supplies,Pen Set,2,9.18,0.1,16.52,4.95,Returning,Credit Card
+ORD-2026,2024-02-10,East,Technology,Webcam HD,2,57.23,0.0,114.46,34.46,New,Debit Card
+ORD-2021,2024-02-10,South,Office Supplies,Notebook Pack,1,13.33,0.0,13.33,5.44,Returning,Net Banking
+ORD-1858,2024-02-11,East,Office Supplies,Printer Paper,5,6.65,0.0,33.25,12.8,New,Net Banking
+ORD-1150,2024-02-12,South,Technology,Laptop Stand,5,43.51,0.15,184.92,66.71,Returning,UPI
+ORD-2136,2024-02-12,North,Office Supplies,Pen Set,1,8.69,0.2,6.95,3.34,Returning,Debit Card
+ORD-1619,2024-02-14,South,Office Supplies,Printer Paper,2,6.62,0.2,10.59,3.52,New,Credit Card
+ORD-1036,2024-02-16,South,Furniture,Office Chair,4,189.01,0.15,642.63,298.77,Returning,Credit Card
+ORD-1279,2024-02-17,West,Accessories,Phone Stand,5,14.32,0.05,68.02,19.9,New,UPI
+ORD-2035,2024-02-18,West,Technology,Wireless Headphones,5,77.49,0.0,387.45,106.04,New,UPI
+ORD-1518,2024-02-18,South,Office Supplies,Notebook Pack,1,13.28,0.0,13.28,6.13,Returning,Credit Card
+ORD-1045,2024-02-19,East,Technology,Laptop Stand,1,47.78,0.2,38.22,11.56,Returning,UPI
+ORD-1387,2024-02-19,East,Office Supplies,Pen Set,3,9.13,0.0,27.39,13.54,Returning,UPI
+ORD-1899,2024-02-21,South,Furniture,Bookshelf,6,137.2,0.1,740.88,273.11,Returning,UPI
+ORD-2022,2024-02-22,West,Office Supplies,Printer Paper,1,6.98,0.0,6.98,2.3,Returning,Credit Card
+ORD-1659,2024-02-22,North,Office Supplies,Printer Paper,2,6.71,0.15,11.41,5.52,Returning,Credit Card
+ORD-1069,2024-02-25,Central,Furniture,Desk Lamp,2,36.68,0.1,66.02,25.25,New,Net Banking
+ORD-2055,2024-02-26,East,Furniture,Office Chair,6,183.57,0.05,1046.35,280.23,New,Credit Card
+ORD-2027,2024-02-26,Central,Accessories,Phone Stand,6,16.17,0.15,82.47,29.34,Returning,UPI
+ORD-1217,2024-02-27,North,Office Supplies,Pen Set,3,8.81,0.05,25.11,7.24,Returning,Debit Card
+ORD-1127,2024-02-27,South,Furniture,Bookshelf,3,135.73,0.0,407.19,123.74,Returning,Credit Card
+ORD-2096,2024-02-28,South,Technology,Wireless Headphones,3,80.15,0.1,216.41,66.3,Returning,Debit Card
+ORD-1439,2024-02-29,East,Accessories,Laptop Sleeve,1,31.08,0.1,27.97,7.38,New,Debit Card
+ORD-1280,2024-03-01,South,Furniture,Office Chair,5,194.34,0.1,874.53,295.63,New,Credit Card
+ORD-2122,2024-03-02,West,Technology,Wireless Headphones,4,81.97,0.0,327.88,132.15,New,UPI
+ORD-1678,2024-03-02,Central,Technology,Laptop Stand,5,48.22,0.1,216.99,53.35,New,Net Banking
+ORD-1246,2024-03-02,South,Office Supplies,Printer Paper,5,6.51,0.1,29.29,10.28,New,Credit Card
+ORD-1431,2024-03-02,South,Furniture,Standing Desk,5,427.17,0.0,2135.85,823.25,New,Credit Card
+ORD-1007,2024-03-03,South,Office Supplies,Printer Paper,1,6.9,0.05,6.55,2.17,Returning,UPI
+ORD-1881,2024-03-03,South,Technology,Portable SSD,6,123.92,0.0,743.52,242.1,New,UPI
+ORD-1753,2024-03-04,South,Furniture,Office Chair,6,182.91,0.0,1097.46,322.24,New,UPI
+ORD-1728,2024-03-05,East,Furniture,Desk Lamp,2,36.06,0.15,61.3,26.02,Returning,Debit Card
+ORD-1196,2024-03-05,South,Furniture,Desk Lamp,2,34.57,0.0,69.14,18.93,Returning,UPI
+ORD-1001,2024-03-06,West,Furniture,Bookshelf,5,134.58,0.15,571.97,143.16,Returning,Credit Card
+ORD-1172,2024-03-06,South,Furniture,Standing Desk,4,430.03,0.0,1720.12,541.37,New,Credit Card
+ORD-1695,2024-03-06,North,Furniture,Bookshelf,2,121.61,0.05,231.06,90.95,New,Net Banking
+ORD-1133,2024-03-07,West,Technology,Laptop Stand,6,41.64,0.0,249.84,118.59,Returning,Credit Card
+ORD-1826,2024-03-07,South,Furniture,Desk Lamp,3,37.69,0.0,113.07,39.59,Returning,Credit Card
+ORD-1359,2024-03-07,Central,Office Supplies,Notebook Pack,5,12.58,0.1,56.61,24.52,Returning,UPI
+ORD-1033,2024-03-08,West,Office Supplies,Printer Paper,6,6.51,0.0,39.06,12.2,Returning,UPI
+ORD-1910,2024-03-08,West,Technology,Webcam HD,1,56.38,0.05,53.56,18.13,Returning,Net Banking
+ORD-1951,2024-03-09,South,Technology,Wireless Headphones,6,81.18,0.0,487.08,212.33,Returning,UPI
+ORD-1581,2024-03-09,West,Technology,Webcam HD,2,57.7,0.0,115.4,45.12,Returning,Credit Card
+ORD-1010,2024-03-09,East,Accessories,Phone Stand,5,14.73,0.05,69.97,18.45,New,UPI
+ORD-1243,2024-03-10,South,Accessories,USB-C Hub,3,40.05,0.0,120.15,45.42,New,Credit Card
+ORD-1700,2024-03-10,North,Technology,Portable SSD,3,118.37,0.0,355.11,106.28,Returning,Net Banking
+ORD-1674,2024-03-10,East,Office Supplies,Printer Paper,3,6.36,0.0,19.08,4.85,New,Debit Card
+ORD-1977,2024-03-10,South,Accessories,Laptop Sleeve,5,29.99,0.1,134.95,46.11,New,Debit Card
+ORD-1376,2024-03-10,North,Technology,Laptop Stand,1,42.97,0.05,40.82,10.53,New,Credit Card
+ORD-1791,2024-03-10,North,Office Supplies,Notebook Pack,5,13.01,0.05,61.8,26.36,New,Net Banking
+ORD-1218,2024-03-11,North,Accessories,Phone Stand,3,13.96,0.05,39.79,18.79,Returning,Credit Card
+ORD-1087,2024-03-12,South,Furniture,Bookshelf,4,133.29,0.05,506.5,184.76,New,UPI
+ORD-1588,2024-03-13,East,Accessories,Laptop Sleeve,2,28.03,0.0,56.06,20.45,Returning,UPI
+ORD-1891,2024-03-14,South,Technology,Portable SSD,6,118.06,0.0,708.36,198.45,New,Credit Card
+ORD-1580,2024-03-15,North,Furniture,Desk Lamp,3,35.7,0.1,96.39,45.15,Returning,UPI
+ORD-1258,2024-03-16,South,Furniture,Desk Lamp,4,33.45,0.0,133.8,38.08,Returning,Credit Card
+ORD-1516,2024-03-17,South,Furniture,Office Chair,4,193.41,0.0,773.64,387.09,Returning,Credit Card
+ORD-2166,2024-03-17,Central,Technology,Portable SSD,4,111.17,0.05,422.45,208.35,Returning,Credit Card
+ORD-1818,2024-03-18,West,Technology,Laptop Stand,2,42.52,0.1,76.54,30.76,Returning,Credit Card
+ORD-1460,2024-03-18,Central,Accessories,Laptop Sleeve,6,27.79,0.0,166.74,67.81,New,Debit Card
+ORD-1171,2024-03-18,North,Office Supplies,Pen Set,3,8.49,0.05,24.2,7.57,Returning,Debit Card
+ORD-1583,2024-03-19,East,Office Supplies,Pen Set,3,8.55,0.05,24.37,8.23,New,Net Banking
+ORD-1322,2024-03-19,Central,Technology,Webcam HD,4,61.64,0.2,197.25,63.31,Returning,Credit Card
+ORD-1480,2024-03-20,South,Accessories,USB-C Hub,3,40.42,0.05,115.2,33.17,New,Credit Card
+ORD-1310,2024-03-20,East,Accessories,Laptop Sleeve,5,31.94,0.15,135.75,57.76,Returning,Credit Card
+ORD-1808,2024-03-21,North,Accessories,Phone Stand,1,14.77,0.05,14.03,6.63,New,Credit Card
+ORD-1873,2024-03-24,Central,Accessories,Laptop Sleeve,1,29.35,0.0,29.35,13.14,New,Debit Card
+ORD-1501,2024-03-24,South,Office Supplies,Pen Set,6,9.21,0.2,44.21,14.33,Returning,Credit Card
+ORD-1120,2024-03-24,East,Furniture,Bookshelf,3,135.46,0.0,406.38,105.5,Returning,Debit Card
+ORD-1538,2024-03-25,South,Technology,Webcam HD,4,62.8,0.15,213.52,81.21,New,Net Banking
+ORD-1365,2024-03-25,North,Accessories,USB-C Hub,6,41.62,0.15,212.26,74.16,Returning,Debit Card
+ORD-2020,2024-03-25,North,Accessories,USB-C Hub,5,38.31,0.0,191.55,85.13,Returning,Credit Card
+ORD-1726,2024-03-26,West,Technology,Laptop Stand,2,45.17,0.0,90.34,42.05,Returning,Credit Card
+ORD-1198,2024-03-27,Central,Furniture,Desk Lamp,5,37.62,0.0,188.1,56.48,Returning,Credit Card
+ORD-1313,2024-03-27,North,Technology,Laptop Stand,3,42.61,0.0,127.83,32.35,Returning,Debit Card
+ORD-1778,2024-03-27,Central,Office Supplies,Printer Paper,2,6.98,0.0,13.96,4.69,Returning,Credit Card
+ORD-1497,2024-03-27,South,Office Supplies,Desk Organizer,4,23.31,0.0,93.24,44.24,Returning,Credit Card
+ORD-1724,2024-03-28,North,Technology,Wireless Headphones,6,75.23,0.0,451.38,111.33,New,UPI
+ORD-1946,2024-03-28,West,Furniture,Standing Desk,4,382.22,0.0,1528.88,631.75,Returning,Net Banking
+ORD-2050,2024-03-28,East,Technology,Webcam HD,3,64.15,0.05,182.83,52.27,Returning,UPI
+ORD-1863,2024-03-28,West,Furniture,Standing Desk,4,369.53,0.1,1330.31,504.94,New,UPI
+ORD-2157,2024-03-28,North,Furniture,Office Chair,1,196.01,0.0,196.01,82.15,New,Credit Card
+ORD-1418,2024-03-30,North,Furniture,Desk Lamp,4,32.71,0.05,124.3,62.09,New,UPI
+ORD-1784,2024-03-30,East,Office Supplies,Pen Set,3,8.33,0.05,23.74,8.03,Returning,UPI
+ORD-1783,2024-03-30,Central,Technology,Wireless Headphones,2,75.03,0.0,150.06,68.9,New,UPI
+ORD-1386,2024-03-30,North,Office Supplies,Notebook Pack,2,12.96,0.05,24.62,11.53,New,Net Banking
+ORD-1436,2024-03-31,Central,Furniture,Desk Lamp,2,33.92,0.1,61.06,22.52,Returning,UPI
+ORD-1874,2024-04-01,South,Office Supplies,Desk Organizer,3,23.74,0.0,71.22,24.71,New,Net Banking
+ORD-1157,2024-04-02,West,Furniture,Desk Lamp,5,37.26,0.0,186.3,70.78,Returning,Net Banking
+ORD-1759,2024-04-03,Central,Technology,Portable SSD,5,119.55,0.1,537.98,250.79,New,UPI
+ORD-2005,2024-04-03,South,Technology,Webcam HD,4,59.79,0.0,239.16,106.93,Returning,Credit Card
+ORD-1018,2024-04-03,North,Technology,Webcam HD,2,59.19,0.0,118.38,61.5,Returning,Credit Card
+ORD-1221,2024-04-03,West,Accessories,Phone Stand,1,15.92,0.05,15.12,5.05,New,UPI
+ORD-1945,2024-04-04,North,Office Supplies,Printer Paper,6,6.98,0.1,37.69,10.4,New,UPI
+ORD-1074,2024-04-04,West,Technology,Wireless Headphones,5,86.27,0.0,431.35,207.73,Returning,UPI
+ORD-1705,2024-04-04,West,Accessories,Phone Stand,2,13.97,0.0,27.94,11.24,Returning,UPI
+ORD-1434,2024-04-05,North,Technology,Wireless Headphones,5,82.49,0.0,412.45,109.37,Returning,UPI
+ORD-1670,2024-04-06,North,Furniture,Bookshelf,1,132.92,0.05,126.27,46.35,Returning,Credit Card
+ORD-1443,2024-04-06,East,Office Supplies,Notebook Pack,6,13.6,0.1,73.44,30.16,New,UPI
+ORD-1414,2024-04-06,West,Furniture,Standing Desk,5,424.39,0.1,1909.75,700.56,Returning,UPI
+ORD-1604,2024-04-08,East,Accessories,USB-C Hub,4,42.02,0.2,134.46,34.99,New,UPI
+ORD-1948,2024-04-08,West,Office Supplies,Notebook Pack,4,12.77,0.05,48.53,21.78,Returning,Credit Card
+ORD-1823,2024-04-09,South,Technology,Webcam HD,6,58.31,0.15,297.38,133.08,Returning,UPI
+ORD-1682,2024-04-10,South,Technology,Laptop Stand,4,45.31,0.05,172.18,48.6,New,Credit Card
+ORD-1721,2024-04-11,South,Furniture,Office Chair,4,178.71,0.05,679.1,187.85,Returning,Credit Card
+ORD-1462,2024-04-12,East,Accessories,Phone Stand,4,13.95,0.0,55.8,27.85,Returning,UPI
+ORD-1118,2024-04-12,South,Accessories,Laptop Sleeve,5,29.74,0.1,133.83,38.84,New,Credit Card
+ORD-1769,2024-04-12,West,Technology,Laptop Stand,1,45.18,0.1,40.66,15.96,New,Credit Card
+ORD-1306,2024-04-12,Central,Furniture,Office Chair,6,188.39,0.1,1017.31,315.5,Returning,UPI
+ORD-1241,2024-04-12,North,Technology,Laptop Stand,4,45.9,0.0,183.6,48.58,Returning,Net Banking
+ORD-1100,2024-04-12,Central,Technology,Laptop Stand,1,42.51,0.15,36.13,13.38,Returning,UPI
+ORD-1620,2024-04-12,South,Furniture,Standing Desk,2,424.25,0.1,763.65,332.36,Returning,Credit Card
+ORD-1329,2024-04-13,East,Technology,Webcam HD,5,57.06,0.1,256.77,86.93,Returning,Credit Card
+ORD-2090,2024-04-13,South,Technology,Webcam HD,4,64.23,0.0,256.92,69.8,Returning,Credit Card
+ORD-2187,2024-04-14,West,Technology,Wireless Headphones,3,74.91,0.1,202.26,96.68,Returning,Debit Card
+ORD-1834,2024-04-14,South,Office Supplies,Notebook Pack,1,13.26,0.0,13.26,3.51,Returning,Net Banking
+ORD-2063,2024-04-15,East,Furniture,Office Chair,3,204.28,0.05,582.2,251.53,Returning,Debit Card
+ORD-1528,2024-04-15,South,Technology,Portable SSD,4,121.0,0.05,459.8,147.1,Returning,Debit Card
+ORD-1256,2024-04-15,Central,Office Supplies,Desk Organizer,5,23.27,0.05,110.53,48.47,Returning,Debit Card
+ORD-1408,2024-04-15,North,Accessories,USB-C Hub,3,37.31,0.1,100.74,39.13,Returning,UPI
+ORD-1522,2024-04-16,South,Technology,Portable SSD,5,118.02,0.1,531.09,275.51,New,Credit Card
+ORD-1924,2024-04-16,Central,Accessories,Phone Stand,2,16.06,0.2,25.7,8.57,Returning,Net Banking
+ORD-1938,2024-04-18,North,Technology,Webcam HD,4,64.13,0.05,243.69,113.14,Returning,Debit Card
+ORD-1752,2024-04-18,North,Technology,Laptop Stand,1,43.24,0.1,38.92,14.69,Returning,Credit Card
+ORD-1975,2024-04-18,West,Furniture,Office Chair,5,191.21,0.0,956.05,350.63,Returning,Debit Card
+ORD-1457,2024-04-18,East,Technology,Portable SSD,5,113.27,0.0,566.35,264.89,Returning,Credit Card
+ORD-1357,2024-04-20,North,Furniture,Bookshelf,5,131.22,0.1,590.49,306.89,Returning,Debit Card
+ORD-2104,2024-04-20,West,Office Supplies,Desk Organizer,5,21.78,0.0,108.9,35.63,Returning,Credit Card
+ORD-1273,2024-04-20,North,Office Supplies,Printer Paper,4,6.11,0.0,24.44,11.91,Returning,UPI
+ORD-1182,2024-04-21,Central,Technology,Webcam HD,3,55.35,0.2,132.84,52.25,New,UPI
+ORD-1058,2024-04-22,East,Accessories,Laptop Sleeve,2,30.96,0.05,58.82,14.89,New,UPI
+ORD-2046,2024-04-22,North,Technology,Webcam HD,3,60.54,0.1,163.46,68.13,Returning,UPI
+ORD-1390,2024-04-22,West,Accessories,Laptop Sleeve,5,31.58,0.15,134.21,42.35,Returning,UPI
+ORD-1536,2024-04-22,Central,Technology,Webcam HD,4,58.46,0.1,210.46,58.77,New,Debit Card
+ORD-1961,2024-04-22,North,Furniture,Office Chair,4,190.12,0.0,760.48,372.94,Returning,Net Banking
+ORD-1884,2024-04-23,East,Technology,Portable SSD,3,117.45,0.1,317.12,108.74,Returning,Credit Card
+ORD-1533,2024-04-23,Central,Furniture,Standing Desk,4,385.83,0.0,1543.32,584.13,New,Debit Card
+ORD-1847,2024-04-24,West,Accessories,Phone Stand,6,15.81,0.0,94.86,35.08,Returning,Credit Card
+ORD-1750,2024-04-25,South,Furniture,Desk Lamp,5,34.15,0.2,136.6,61.68,New,UPI
+ORD-1937,2024-04-25,Central,Furniture,Office Chair,1,176.77,0.0,176.77,78.83,New,Debit Card
+ORD-1287,2024-04-27,East,Technology,Portable SSD,1,129.23,0.0,129.23,44.85,Returning,Credit Card
+ORD-1083,2024-04-27,South,Office Supplies,Notebook Pack,5,14.02,0.05,66.59,33.8,New,Net Banking
+ORD-1178,2024-04-27,North,Technology,Laptop Stand,1,44.08,0.1,39.67,13.39,New,Credit Card
+ORD-2076,2024-04-29,Central,Technology,Portable SSD,6,117.15,0.05,667.76,341.78,Returning,UPI
+ORD-1041,2024-04-30,South,Technology,Webcam HD,6,60.4,0.1,326.16,154.51,New,Debit Card
+ORD-1623,2024-04-30,South,Accessories,Laptop Sleeve,5,31.2,0.15,132.6,43.03,New,Debit Card
+ORD-1350,2024-04-30,North,Accessories,Laptop Sleeve,1,32.04,0.1,28.84,14.39,Returning,UPI
+ORD-1532,2024-05-01,North,Technology,Portable SSD,5,124.43,0.0,622.15,183.18,New,Net Banking
+ORD-1467,2024-05-01,East,Accessories,USB-C Hub,6,42.8,0.0,256.8,128.67,Returning,Credit Card
+ORD-2078,2024-05-01,South,Accessories,Phone Stand,6,14.18,0.1,76.57,18.85,New,Debit Card
+ORD-1187,2024-05-01,North,Office Supplies,Pen Set,3,9.5,0.0,28.5,10.26,Returning,UPI
+ORD-1703,2024-05-02,North,Office Supplies,Pen Set,5,8.9,0.0,44.5,17.6,Returning,Credit Card
+ORD-1168,2024-05-02,South,Furniture,Standing Desk,4,370.71,0.0,1482.84,678.24,Returning,Credit Card
+ORD-1685,2024-05-03,South,Technology,Wireless Headphones,2,80.29,0.1,144.52,49.83,New,Debit Card
+ORD-1262,2024-05-04,Central,Technology,Laptop Stand,4,44.14,0.2,141.25,38.81,Returning,Credit Card
+ORD-2193,2024-05-04,West,Office Supplies,Pen Set,5,8.34,0.0,41.7,21.59,New,Credit Card
+ORD-1704,2024-05-05,South,Office Supplies,Printer Paper,1,6.29,0.05,5.98,2.35,Returning,UPI
+ORD-2032,2024-05-06,East,Accessories,USB-C Hub,6,37.75,0.0,226.5,109.19,Returning,Credit Card
+ORD-1908,2024-05-06,North,Technology,Laptop Stand,2,46.73,0.15,79.44,27.68,New,UPI
+ORD-1411,2024-05-07,North,Office Supplies,Printer Paper,6,6.45,0.1,34.83,8.61,Returning,Debit Card
+ORD-1544,2024-05-07,West,Office Supplies,Printer Paper,5,6.78,0.05,32.2,10.83,New,Debit Card
+ORD-1259,2024-05-08,East,Office Supplies,Printer Paper,5,6.04,0.15,25.67,9.22,Returning,UPI
+ORD-1761,2024-05-08,South,Office Supplies,Notebook Pack,6,13.66,0.05,77.86,35.63,Returning,Net Banking
+ORD-1230,2024-05-09,West,Office Supplies,Pen Set,2,9.65,0.1,17.37,6.17,Returning,Debit Card
+ORD-1661,2024-05-09,North,Furniture,Office Chair,2,203.97,0.1,367.15,140.29,New,Credit Card
+ORD-2174,2024-05-09,South,Office Supplies,Desk Organizer,6,23.1,0.15,117.81,50.06,New,UPI
+ORD-1392,2024-05-11,East,Office Supplies,Notebook Pack,5,13.84,0.15,58.82,21.14,New,Net Banking
+ORD-1251,2024-05-11,North,Furniture,Bookshelf,5,135.26,0.05,642.48,328.41,Returning,Credit Card
+ORD-2106,2024-05-12,South,Office Supplies,Notebook Pack,6,12.57,0.1,67.88,21.79,Returning,UPI
+ORD-1564,2024-05-12,West,Accessories,USB-C Hub,3,38.63,0.0,115.89,43.71,New,UPI
+ORD-1349,2024-05-12,South,Technology,Portable SSD,5,128.52,0.05,610.47,242.36,New,Debit Card
+ORD-1469,2024-05-12,West,Office Supplies,Pen Set,6,9.53,0.1,51.46,19.27,New,Credit Card
+ORD-1023,2024-05-13,Central,Office Supplies,Pen Set,1,9.5,0.1,8.55,3.84,Returning,UPI
+ORD-1635,2024-05-13,East,Furniture,Standing Desk,4,425.83,0.05,1618.15,766.72,Returning,UPI
+ORD-1912,2024-05-14,North,Office Supplies,Pen Set,4,9.58,0.05,36.4,17.88,Returning,Debit Card
+ORD-1253,2024-05-17,Central,Technology,Laptop Stand,6,47.88,0.15,244.19,66.98,New,Net Banking
+ORD-1072,2024-05-18,West,Accessories,USB-C Hub,1,41.51,0.0,41.51,18.59,Returning,Debit Card
+ORD-2178,2024-05-20,South,Office Supplies,Printer Paper,5,6.72,0.0,33.6,15.87,New,Net Banking
+ORD-2113,2024-05-20,West,Technology,Portable SSD,1,114.46,0.2,91.57,29.9,Returning,Credit Card
+ORD-1523,2024-05-20,Central,Furniture,Desk Lamp,1,35.86,0.0,35.86,15.55,Returning,UPI
+ORD-1888,2024-05-21,East,Furniture,Standing Desk,5,404.96,0.0,2024.8,962.16,Returning,UPI
+ORD-1052,2024-05-22,Central,Office Supplies,Printer Paper,3,6.59,0.1,17.79,6.9,New,Credit Card
+ORD-2115,2024-05-22,South,Technology,Wireless Headphones,5,85.53,0.0,427.65,116.46,New,Credit Card
+ORD-1543,2024-05-22,North,Furniture,Bookshelf,5,123.5,0.1,555.75,155.42,Returning,Net Banking
+ORD-1993,2024-05-23,North,Technology,Wireless Headphones,6,76.88,0.0,461.28,216.28,New,Net Banking
+ORD-1398,2024-05-23,West,Office Supplies,Printer Paper,1,6.97,0.1,6.27,3.11,Returning,Credit Card
+ORD-1838,2024-05-24,West,Office Supplies,Notebook Pack,1,13.29,0.15,11.3,4.43,Returning,UPI
+ORD-1102,2024-05-26,Central,Accessories,USB-C Hub,5,43.03,0.15,182.88,51.97,New,Debit Card
+ORD-1426,2024-05-26,North,Office Supplies,Pen Set,3,8.62,0.15,21.98,8.12,Returning,Credit Card
+ORD-2085,2024-05-26,North,Accessories,USB-C Hub,4,37.08,0.1,133.49,37.42,New,Net Banking
+ORD-1653,2024-05-27,Central,Furniture,Desk Lamp,2,34.49,0.0,68.98,22.43,Returning,Credit Card
+ORD-1009,2024-05-27,South,Furniture,Desk Lamp,5,37.78,0.1,170.01,74.3,New,UPI
+ORD-1872,2024-05-27,South,Accessories,Wireless Mouse,6,26.79,0.1,144.67,72.16,New,Net Banking
+ORD-1224,2024-05-27,North,Technology,Laptop Stand,5,41.71,0.2,166.84,51.81,Returning,Debit Card
+ORD-1664,2024-05-27,North,Furniture,Desk Lamp,6,35.68,0.1,192.67,84.42,Returning,Credit Card
+ORD-1339,2024-05-28,North,Office Supplies,Pen Set,1,8.31,0.0,8.31,2.93,Returning,Net Banking
+ORD-1735,2024-06-01,South,Accessories,Laptop Sleeve,4,27.81,0.0,111.24,33.23,New,UPI
+ORD-2072,2024-06-01,North,Technology,Portable SSD,2,123.39,0.0,246.78,126.61,Returning,Net Banking
+ORD-1142,2024-06-05,South,Technology,Webcam HD,3,55.68,0.2,133.63,41.44,Returning,Debit Card
+ORD-1964,2024-06-08,Central,Office Supplies,Desk Organizer,1,22.58,0.1,20.32,8.46,Returning,UPI
+ORD-1903,2024-06-09,East,Office Supplies,Pen Set,4,8.93,0.2,28.58,9.67,New,Credit Card
+ORD-1363,2024-06-12,East,Office Supplies,Printer Paper,5,6.86,0.0,34.3,13.86,New,UPI
+ORD-1976,2024-06-13,West,Office Supplies,Printer Paper,2,6.84,0.05,13.0,3.37,New,Debit Card
+ORD-1078,2024-06-14,North,Furniture,Desk Lamp,4,32.56,0.1,117.22,60.92,Returning,UPI
+ORD-1567,2024-06-15,East,Accessories,Laptop Sleeve,6,28.43,0.0,170.58,78.22,Returning,UPI
+ORD-1032,2024-06-15,Central,Technology,Laptop Stand,6,42.83,0.0,256.98,71.82,New,UPI
+ORD-1412,2024-06-16,East,Accessories,Wireless Mouse,2,25.64,0.0,51.28,19.26,Returning,UPI
+ORD-1326,2024-06-17,South,Accessories,Wireless Mouse,6,25.59,0.15,130.51,33.94,New,Credit Card
+ORD-1626,2024-06-19,East,Office Supplies,Pen Set,1,9.58,0.15,8.14,2.98,New,UPI
+ORD-2112,2024-06-19,East,Accessories,Phone Stand,6,16.06,0.0,96.36,26.23,New,Credit Card
+ORD-1486,2024-06-19,South,Furniture,Bookshelf,4,124.61,0.1,448.6,124.69,Returning,Credit Card
+ORD-1148,2024-06-20,West,Office Supplies,Pen Set,3,8.94,0.0,26.82,12.67,New,Credit Card
+ORD-1637,2024-06-21,Central,Accessories,USB-C Hub,6,37.47,0.05,213.58,79.1,Returning,Credit Card
+ORD-1327,2024-06-21,East,Technology,Webcam HD,1,61.92,0.0,61.92,18.49,New,Debit Card
+ORD-1719,2024-06-21,West,Technology,Webcam HD,4,62.17,0.2,198.94,75.88,Returning,Net Banking
+ORD-1510,2024-06-22,North,Technology,Webcam HD,2,56.56,0.1,101.81,49.77,New,Net Banking
+ORD-1566,2024-06-22,North,Office Supplies,Printer Paper,2,6.55,0.05,12.44,4.54,Returning,Credit Card
+ORD-1189,2024-06-23,North,Office Supplies,Notebook Pack,5,14.01,0.1,63.05,26.76,Returning,UPI
+ORD-1854,2024-06-23,Central,Office Supplies,Pen Set,2,8.5,0.2,13.6,4.79,Returning,UPI
+ORD-2047,2024-06-24,North,Accessories,Phone Stand,4,14.73,0.15,50.08,14.44,New,Credit Card
+ORD-1097,2024-06-24,West,Technology,Laptop Stand,3,48.21,0.0,144.63,58.81,Returning,Credit Card
+ORD-1593,2024-06-24,North,Office Supplies,Printer Paper,4,6.26,0.15,21.28,9.04,Returning,UPI
+ORD-1384,2024-06-25,East,Technology,Laptop Stand,3,42.32,0.0,126.96,52.51,New,UPI
+ORD-1832,2024-06-25,East,Accessories,Phone Stand,4,15.02,0.05,57.08,16.04,Returning,Credit Card
+ORD-2107,2024-06-27,West,Technology,Laptop Stand,3,43.19,0.2,103.66,30.65,Returning,Credit Card
+ORD-1315,2024-06-27,West,Office Supplies,Printer Paper,4,6.63,0.05,25.19,11.97,New,Credit Card
+ORD-2124,2024-06-27,North,Accessories,Wireless Mouse,6,25.1,0.0,150.6,45.7,Returning,Credit Card
+ORD-2013,2024-06-28,East,Technology,Laptop Stand,3,42.2,0.0,126.6,56.04,New,UPI
+ORD-1119,2024-06-28,South,Furniture,Desk Lamp,3,36.4,0.0,109.2,47.19,New,UPI
+ORD-1831,2024-06-28,Central,Office Supplies,Notebook Pack,2,13.66,0.1,24.59,9.58,Returning,Credit Card
+ORD-1857,2024-06-28,East,Furniture,Desk Lamp,3,33.95,0.0,101.85,41.03,Returning,UPI
+ORD-1989,2024-06-29,Central,Office Supplies,Pen Set,2,8.62,0.05,16.38,4.18,New,UPI
+ORD-1925,2024-06-30,East,Technology,Laptop Stand,6,43.83,0.0,262.98,126.78,New,Net Banking
+ORD-1508,2024-06-30,Central,Accessories,USB-C Hub,1,37.79,0.05,35.9,11.77,Returning,Credit Card
+ORD-1617,2024-07-01,South,Accessories,Phone Stand,5,15.81,0.0,79.05,29.62,Returning,Debit Card
+ORD-1568,2024-07-01,East,Technology,Wireless Headphones,1,84.38,0.0,84.38,29.19,New,Net Banking
+ORD-1483,2024-07-02,South,Technology,Portable SSD,4,126.22,0.0,504.88,203.03,New,Net Banking
+ORD-1696,2024-07-04,West,Office Supplies,Notebook Pack,4,13.14,0.0,52.56,14.21,Returning,UPI
+ORD-1919,2024-07-05,Central,Office Supplies,Notebook Pack,2,12.81,0.15,21.78,9.58,Returning,UPI
+ORD-1346,2024-07-06,South,Furniture,Office Chair,3,192.92,0.05,549.82,237.46,Returning,UPI
+ORD-1933,2024-07-07,South,Office Supplies,Pen Set,2,9.54,0.1,17.17,5.82,Returning,Debit Card
+ORD-2179,2024-07-08,West,Technology,Wireless Headphones,1,75.66,0.15,64.31,17.61,Returning,Debit Card
+ORD-1211,2024-07-09,North,Furniture,Office Chair,2,196.18,0.0,392.36,181.58,Returning,Debit Card
+ORD-1380,2024-07-10,North,Office Supplies,Desk Organizer,3,20.45,0.05,58.28,16.89,Returning,UPI
+ORD-1209,2024-07-11,Central,Office Supplies,Notebook Pack,1,13.01,0.1,11.71,3.72,Returning,UPI
+ORD-1618,2024-07-13,East,Furniture,Office Chair,4,174.82,0.0,699.28,175.3,Returning,UPI
+ORD-1206,2024-07-13,North,Furniture,Bookshelf,1,124.89,0.0,124.89,51.45,New,UPI
+ORD-1292,2024-07-14,Central,Furniture,Desk Lamp,5,33.35,0.05,158.41,57.4,Returning,UPI
+ORD-1509,2024-07-15,South,Office Supplies,Notebook Pack,3,12.66,0.1,34.18,9.4,New,Credit Card
+ORD-2123,2024-07-15,North,Technology,Wireless Headphones,5,74.53,0.0,372.65,119.37,New,Debit Card
+ORD-2011,2024-07-15,North,Technology,Laptop Stand,4,47.62,0.1,171.43,77.32,Returning,Credit Card
+ORD-1744,2024-07-16,South,Technology,Wireless Headphones,6,80.75,0.0,484.5,154.04,Returning,Credit Card
+ORD-1890,2024-07-16,West,Furniture,Desk Lamp,2,32.44,0.0,64.88,23.93,Returning,UPI
+ORD-1779,2024-07-17,West,Office Supplies,Pen Set,4,9.51,0.0,38.04,13.18,Returning,UPI
+ORD-1216,2024-07-18,Central,Technology,Webcam HD,1,55.96,0.05,53.16,23.73,New,Credit Card
+ORD-1505,2024-07-19,West,Furniture,Standing Desk,2,371.38,0.1,668.48,283.9,New,Credit Card
+ORD-1281,2024-07-20,East,Accessories,Wireless Mouse,3,23.97,0.05,68.31,31.52,New,Credit Card
+ORD-1111,2024-07-21,North,Furniture,Bookshelf,1,124.33,0.05,118.11,40.33,Returning,UPI
+ORD-1039,2024-07-21,South,Accessories,USB-C Hub,4,37.5,0.05,142.5,64.03,Returning,Net Banking
+ORD-1143,2024-07-21,South,Accessories,Wireless Mouse,2,26.11,0.05,49.61,22.38,New,Net Banking
+ORD-2192,2024-07-22,Central,Technology,Laptop Stand,3,42.16,0.15,107.51,41.35,Returning,Credit Card
+ORD-1950,2024-07-22,North,Technology,Portable SSD,6,120.36,0.15,613.84,211.82,Returning,Credit Card
+ORD-1413,2024-07-23,West,Furniture,Office Chair,3,180.64,0.0,541.92,260.05,Returning,UPI
+ORD-1399,2024-07-24,West,Office Supplies,Printer Paper,6,6.1,0.2,29.28,12.36,New,UPI
+ORD-1152,2024-07-24,South,Furniture,Desk Lamp,1,34.66,0.0,34.66,10.81,Returning,UPI
+ORD-2028,2024-07-24,South,Accessories,Laptop Sleeve,5,31.89,0.1,143.5,59.18,Returning,Debit Card
+ORD-1314,2024-07-24,Central,Office Supplies,Notebook Pack,5,13.29,0.0,66.45,31.08,New,Credit Card
+ORD-1573,2024-07-25,South,Technology,Portable SSD,1,120.53,0.05,114.5,38.45,New,Debit Card
+ORD-1814,2024-07-26,North,Technology,Laptop Stand,1,45.48,0.1,40.93,17.42,Returning,UPI
+ORD-1534,2024-07-27,West,Office Supplies,Desk Organizer,1,21.07,0.0,21.07,8.35,Returning,Credit Card
+ORD-1299,2024-07-27,East,Technology,Portable SSD,2,120.93,0.0,241.86,114.91,Returning,Debit Card
+ORD-1450,2024-07-28,Central,Office Supplies,Printer Paper,6,6.51,0.0,39.06,19.03,New,Credit Card
+ORD-1096,2024-07-29,East,Office Supplies,Notebook Pack,3,12.03,0.1,32.48,12.69,New,Credit Card
+ORD-1481,2024-07-29,South,Technology,Laptop Stand,2,47.96,0.15,81.53,39.89,Returning,UPI
+ORD-1855,2024-07-29,South,Office Supplies,Printer Paper,1,6.42,0.0,6.42,3.18,New,Net Banking
+ORD-1660,2024-07-29,North,Technology,Laptop Stand,1,44.83,0.0,44.83,15.69,Returning,Credit Card
+ORD-1841,2024-07-30,South,Technology,Portable SSD,1,128.25,0.0,128.25,40.45,Returning,UPI
+ORD-1495,2024-07-30,West,Technology,Laptop Stand,5,46.76,0.0,233.8,71.19,New,Debit Card
+ORD-1342,2024-07-31,South,Office Supplies,Printer Paper,2,6.26,0.2,10.02,5.14,New,UPI
+ORD-2114,2024-08-01,North,Office Supplies,Desk Organizer,4,20.89,0.05,79.38,25.21,Returning,UPI
+ORD-1154,2024-08-02,East,Office Supplies,Notebook Pack,1,12.95,0.05,12.3,3.22,Returning,Net Banking
+ORD-1796,2024-08-03,East,Furniture,Desk Lamp,2,34.41,0.05,65.38,32.24,Returning,Credit Card
+ORD-1271,2024-08-03,Central,Office Supplies,Desk Organizer,6,21.34,0.0,128.04,63.98,Returning,Debit Card
+ORD-1419,2024-08-04,South,Technology,Wireless Headphones,6,74.76,0.0,448.56,123.26,Returning,Net Banking
+ORD-1638,2024-08-05,North,Technology,Portable SSD,6,111.42,0.15,568.24,164.43,New,Debit Card
+ORD-1353,2024-08-06,South,Office Supplies,Notebook Pack,5,13.72,0.0,68.6,19.14,Returning,UPI
+ORD-1971,2024-08-06,Central,Technology,Portable SSD,6,117.55,0.05,670.03,244.54,New,Debit Card
+ORD-1263,2024-08-07,East,Accessories,Laptop Sleeve,1,31.77,0.0,31.77,10.39,Returning,Debit Card
+ORD-1442,2024-08-07,East,Accessories,Laptop Sleeve,6,30.6,0.1,165.24,66.15,Returning,Credit Card
+ORD-1802,2024-08-08,West,Technology,Portable SSD,4,129.14,0.0,516.56,267.82,New,Net Banking
+ORD-1190,2024-08-08,North,Technology,Laptop Stand,4,48.07,0.0,192.28,85.74,New,Credit Card
+ORD-1928,2024-08-08,South,Accessories,USB-C Hub,5,40.79,0.0,203.95,94.9,Returning,UPI
+ORD-1307,2024-08-08,West,Accessories,Phone Stand,2,14.02,0.15,23.83,8.06,Returning,UPI
+ORD-1136,2024-08-10,South,Office Supplies,Notebook Pack,5,12.55,0.1,56.48,27.51,Returning,UPI
+ORD-1952,2024-08-10,East,Office Supplies,Pen Set,6,9.67,0.05,55.12,18.36,New,Credit Card
+ORD-2155,2024-08-10,East,Office Supplies,Desk Organizer,5,20.26,0.15,86.11,40.67,Returning,Net Banking
+ORD-2105,2024-08-11,West,Office Supplies,Printer Paper,3,6.55,0.1,17.68,7.81,Returning,Credit Card
+ORD-1226,2024-08-11,South,Office Supplies,Notebook Pack,5,13.81,0.1,62.14,18.29,Returning,Credit Card
+ORD-2186,2024-08-12,West,Office Supplies,Desk Organizer,2,23.6,0.0,47.2,15.88,Returning,Debit Card
+ORD-1239,2024-08-13,West,Technology,Webcam HD,1,64.19,0.2,51.35,19.05,Returning,UPI
+ORD-1526,2024-08-14,West,Furniture,Office Chair,2,188.85,0.0,377.7,110.24,Returning,UPI
+ORD-1400,2024-08-14,West,Technology,Webcam HD,1,61.46,0.05,58.39,19.75,Returning,Credit Card
+ORD-1333,2024-08-14,West,Technology,Webcam HD,2,55.6,0.05,105.64,52.59,New,UPI
+ORD-2060,2024-08-15,West,Office Supplies,Notebook Pack,5,12.21,0.1,54.95,15.98,New,UPI
+ORD-1749,2024-08-16,East,Furniture,Standing Desk,2,429.86,0.0,859.72,239.11,New,Debit Card
+ORD-1088,2024-08-16,East,Technology,Laptop Stand,1,44.19,0.1,39.77,18.29,Returning,Credit Card
+ORD-2014,2024-08-17,South,Furniture,Office Chair,3,175.97,0.0,527.91,269.27,Returning,Credit Card
+ORD-2034,2024-08-17,West,Technology,Portable SSD,3,118.19,0.0,354.57,144.32,Returning,Net Banking
+ORD-1748,2024-08-17,East,Furniture,Bookshelf,5,139.55,0.2,558.2,161.99,Returning,Credit Card
+ORD-1447,2024-08-17,South,Office Supplies,Printer Paper,3,6.7,0.2,16.08,3.88,Returning,UPI
+ORD-1799,2024-08-18,North,Furniture,Bookshelf,4,120.73,0.05,458.77,237.89,New,Credit Card
+ORD-1368,2024-08-18,East,Technology,Portable SSD,4,116.22,0.0,464.88,126.05,Returning,Credit Card
+ORD-1309,2024-08-18,South,Furniture,Office Chair,3,180.32,0.05,513.91,161.96,New,Net Banking
+ORD-2177,2024-08-19,North,Technology,Portable SSD,2,120.17,0.1,216.31,109.82,Returning,Credit Card
+ORD-1338,2024-08-19,South,Office Supplies,Desk Organizer,3,20.32,0.05,57.91,14.83,New,Net Banking
+ORD-1988,2024-08-19,West,Technology,Wireless Headphones,6,73.67,0.05,419.92,216.21,New,UPI
+ORD-1968,2024-08-19,East,Accessories,Wireless Mouse,1,25.92,0.05,24.62,11.67,Returning,UPI
+ORD-1554,2024-08-20,North,Office Supplies,Pen Set,4,8.73,0.05,33.17,11.75,New,Debit Card
+ORD-1525,2024-08-20,East,Technology,Webcam HD,6,56.93,0.0,341.58,159.69,Returning,Debit Card
+ORD-1167,2024-08-22,West,Technology,Laptop Stand,3,45.78,0.1,123.61,37.4,Returning,Credit Card
+ORD-1321,2024-08-22,West,Accessories,USB-C Hub,6,41.37,0.0,248.22,87.32,New,Credit Card
+ORD-1595,2024-08-22,South,Office Supplies,Printer Paper,4,6.93,0.15,23.56,8.32,New,Debit Card
+ORD-1403,2024-08-22,East,Furniture,Office Chair,2,200.35,0.1,360.63,109.93,Returning,Credit Card
+ORD-1607,2024-08-24,North,Office Supplies,Printer Paper,3,6.57,0.0,19.71,6.12,Returning,UPI
+ORD-1066,2024-08-26,East,Office Supplies,Pen Set,1,8.52,0.15,7.24,2.91,Returning,Debit Card
+ORD-1632,2024-08-27,South,Furniture,Desk Lamp,2,34.68,0.15,58.96,20.91,New,Credit Card
+ORD-1646,2024-08-28,South,Technology,Wireless Headphones,6,85.52,0.1,461.81,179.37,New,UPI
+ORD-2095,2024-08-28,West,Furniture,Standing Desk,5,387.87,0.1,1745.41,427.19,Returning,Credit Card
+ORD-1077,2024-08-29,South,Technology,Laptop Stand,3,47.34,0.1,127.82,46.38,New,UPI
+ORD-1254,2024-08-29,South,Office Supplies,Notebook Pack,3,12.66,0.05,36.08,15.85,New,UPI
+ORD-1294,2024-08-30,Central,Technology,Portable SSD,3,125.72,0.0,377.16,94.99,New,Debit Card
+ORD-2145,2024-08-30,East,Furniture,Bookshelf,1,128.71,0.1,115.84,35.92,New,Credit Card
+ORD-2069,2024-08-31,North,Technology,Webcam HD,5,59.52,0.0,297.6,124.11,New,UPI
+ORD-1738,2024-08-31,South,Furniture,Desk Lamp,3,35.47,0.0,106.41,28.08,Returning,Net Banking
+ORD-1169,2024-09-01,Central,Accessories,Laptop Sleeve,6,32.05,0.0,192.3,99.03,Returning,Credit Card
+ORD-1487,2024-09-01,North,Technology,Webcam HD,4,63.35,0.05,240.73,58.04,New,UPI
+ORD-2030,2024-09-01,West,Technology,Portable SSD,4,111.96,0.0,447.84,151.61,New,Debit Card
+ORD-1371,2024-09-02,West,Office Supplies,Printer Paper,4,6.16,0.15,20.94,5.18,Returning,UPI
+ORD-1627,2024-09-04,West,Furniture,Desk Lamp,5,36.17,0.0,180.85,79.51,Returning,Credit Card
+ORD-1199,2024-09-04,Central,Office Supplies,Printer Paper,2,6.58,0.1,11.84,5.28,New,UPI
+ORD-2176,2024-09-04,North,Office Supplies,Notebook Pack,5,12.03,0.0,60.15,26.16,Returning,Net Banking
+ORD-2142,2024-09-04,North,Office Supplies,Printer Paper,6,6.36,0.0,38.16,9.23,New,UPI
+ORD-2160,2024-09-05,Central,Office Supplies,Pen Set,2,8.79,0.0,17.58,5.06,New,UPI
+ORD-1991,2024-09-07,West,Office Supplies,Notebook Pack,3,12.81,0.2,30.74,14.81,Returning,Debit Card
+ORD-1197,2024-09-07,North,Furniture,Standing Desk,4,384.46,0.05,1460.95,554.06,New,UPI
+ORD-1268,2024-09-10,Central,Technology,Wireless Headphones,4,80.95,0.1,291.42,143.94,New,Debit Card
+ORD-1139,2024-09-11,South,Furniture,Office Chair,6,187.33,0.0,1123.98,308.92,Returning,UPI
+ORD-1979,2024-09-13,East,Furniture,Desk Lamp,4,33.5,0.1,120.6,30.16,New,Credit Card
+ORD-1044,2024-09-16,South,Furniture,Office Chair,2,200.67,0.1,361.21,99.38,Returning,Credit Card
+ORD-1521,2024-09-18,South,Office Supplies,Desk Organizer,4,22.02,0.15,74.87,29.74,Returning,UPI
+ORD-1765,2024-09-20,Central,Furniture,Office Chair,4,200.3,0.1,721.08,225.58,Returning,UPI
+ORD-1998,2024-09-20,South,Technology,Portable SSD,2,113.4,0.1,204.12,72.76,Returning,Credit Card
+ORD-1194,2024-09-21,North,Furniture,Office Chair,6,205.01,0.0,1230.06,374.4,Returning,Credit Card
+ORD-1301,2024-09-22,West,Accessories,Laptop Sleeve,4,31.17,0.0,124.68,61.88,Returning,Credit Card
+ORD-2052,2024-09-23,South,Office Supplies,Printer Paper,1,6.68,0.05,6.35,1.72,Returning,Debit Card
+ORD-1053,2024-09-23,West,Office Supplies,Desk Organizer,6,21.81,0.0,130.86,35.35,Returning,UPI
+ORD-1746,2024-09-23,West,Furniture,Desk Lamp,3,37.48,0.0,112.44,44.67,Returning,UPI
+ORD-1201,2024-09-24,East,Technology,Laptop Stand,6,42.73,0.15,217.92,93.59,Returning,UPI
+ORD-1630,2024-09-24,West,Furniture,Office Chair,1,195.12,0.0,195.12,87.12,New,UPI
+ORD-2138,2024-09-24,North,Furniture,Office Chair,3,181.49,0.0,544.47,273.24,Returning,Credit Card
+ORD-1063,2024-09-25,South,Technology,Portable SSD,5,113.61,0.15,482.84,250.06,Returning,Debit Card
+ORD-1393,2024-09-25,North,Technology,Laptop Stand,5,44.57,0.1,200.56,92.43,Returning,UPI
+ORD-1628,2024-09-25,South,Furniture,Office Chair,6,176.88,0.1,955.15,378.23,Returning,UPI
+ORD-2151,2024-09-27,Central,Technology,Portable SSD,4,124.43,0.1,447.95,204.8,Returning,Credit Card
+ORD-1068,2024-09-27,West,Furniture,Office Chair,3,195.23,0.0,585.69,246.61,Returning,Debit Card
+ORD-1909,2024-09-28,West,Office Supplies,Printer Paper,3,6.16,0.0,18.48,6.56,New,Credit Card
+ORD-1332,2024-09-28,East,Accessories,Wireless Mouse,3,25.2,0.2,60.48,26.86,New,Debit Card
+ORD-1022,2024-09-28,Central,Technology,Portable SSD,4,121.32,0.0,485.28,172.15,New,Debit Card
+ORD-2044,2024-09-29,North,Accessories,Wireless Mouse,5,25.88,0.0,129.4,51.03,New,UPI
+ORD-1576,2024-09-30,North,Technology,Portable SSD,2,119.21,0.0,238.42,112.62,New,Net Banking
+ORD-1374,2024-09-30,South,Accessories,Phone Stand,5,14.95,0.0,74.75,22.56,Returning,UPI
+ORD-1498,2024-09-30,West,Accessories,Phone Stand,1,13.97,0.05,13.27,4.38,Returning,Net Banking
+ORD-1913,2024-10-02,East,Office Supplies,Notebook Pack,1,12.58,0.2,10.06,4.22,Returning,Debit Card
+ORD-1770,2024-10-02,Central,Accessories,Laptop Sleeve,6,27.98,0.05,159.49,47.27,Returning,Credit Card
+ORD-1379,2024-10-04,North,Office Supplies,Pen Set,4,9.24,0.15,31.42,10.68,New,Net Banking
+ORD-1634,2024-10-04,West,Technology,Webcam HD,5,63.75,0.0,318.75,107.1,Returning,Debit Card
+ORD-1188,2024-10-05,North,Technology,Portable SSD,3,114.97,0.0,344.91,107.2,Returning,Net Banking
+ORD-2159,2024-10-07,Central,Technology,Webcam HD,3,62.74,0.0,188.22,89.12,New,Debit Card
+ORD-2017,2024-10-07,East,Technology,Webcam HD,3,60.29,0.0,180.87,74.89,Returning,Credit Card
+ORD-1758,2024-10-07,Central,Office Supplies,Desk Organizer,6,21.72,0.1,117.29,50.07,New,Debit Card
+ORD-1614,2024-10-08,East,Accessories,Laptop Sleeve,3,29.51,0.0,88.53,26.55,New,UPI
+ORD-1094,2024-10-10,North,Accessories,Laptop Sleeve,4,29.37,0.05,111.61,44.99,Returning,Debit Card
+ORD-2066,2024-10-10,Central,Office Supplies,Notebook Pack,6,12.68,0.15,64.67,18.06,New,UPI
+ORD-1809,2024-10-12,West,Furniture,Office Chair,5,203.59,0.1,916.16,366.86,Returning,Credit Card
+ORD-2094,2024-10-13,North,Office Supplies,Notebook Pack,4,13.68,0.0,54.72,17.75,Returning,UPI
+ORD-2173,2024-10-13,North,Office Supplies,Pen Set,6,8.45,0.0,50.7,22.37,Returning,UPI
+ORD-1552,2024-10-14,West,Office Supplies,Desk Organizer,3,22.1,0.0,66.3,30.68,New,Credit Card
+ORD-1440,2024-10-17,Central,Accessories,Laptop Sleeve,4,28.88,0.1,103.97,36.9,New,UPI
+ORD-2168,2024-10-18,South,Technology,Wireless Headphones,2,82.63,0.1,148.73,39.73,Returning,UPI
+ORD-1957,2024-10-19,West,Furniture,Office Chair,1,179.0,0.0,179.0,56.47,Returning,Credit Card
+ORD-1027,2024-10-21,East,Office Supplies,Notebook Pack,6,11.99,0.0,71.94,17.4,New,Net Banking
+ORD-1585,2024-10-22,West,Accessories,Phone Stand,6,15.61,0.0,93.66,33.56,New,Debit Card
+ORD-1942,2024-10-22,West,Office Supplies,Desk Organizer,3,23.41,0.1,63.21,18.71,New,UPI
+ORD-1687,2024-10-24,East,Furniture,Office Chair,5,178.33,0.0,891.65,309.8,Returning,UPI
+ORD-2131,2024-10-24,East,Office Supplies,Notebook Pack,1,12.16,0.15,10.34,2.88,Returning,UPI
+ORD-1164,2024-10-24,Central,Office Supplies,Notebook Pack,3,12.1,0.05,34.48,10.18,New,Credit Card
+ORD-1962,2024-10-25,North,Furniture,Standing Desk,2,428.73,0.1,771.71,302.08,Returning,UPI
+ORD-1144,2024-10-25,South,Office Supplies,Notebook Pack,4,13.06,0.1,47.02,18.18,Returning,Credit Card
+ORD-1163,2024-10-26,North,Office Supplies,Desk Organizer,2,20.42,0.0,40.84,14.58,Returning,Credit Card
+ORD-1373,2024-10-26,West,Accessories,Wireless Mouse,2,23.29,0.1,41.92,12.81,Returning,Debit Card
+ORD-1065,2024-10-27,West,Office Supplies,Desk Organizer,6,20.48,0.2,98.3,47.32,New,Net Banking
+ORD-1907,2024-10-27,East,Technology,Wireless Headphones,5,84.34,0.05,400.62,143.12,New,Debit Card
+ORD-1496,2024-10-28,West,Accessories,Phone Stand,2,15.74,0.0,31.48,14.96,Returning,Credit Card
+ORD-1960,2024-10-28,West,Accessories,Laptop Sleeve,5,29.37,0.0,146.85,58.99,Returning,UPI
+ORD-1248,2024-10-30,West,Office Supplies,Desk Organizer,6,23.49,0.0,140.94,72.26,New,Credit Card
+ORD-2191,2024-10-30,South,Technology,Portable SSD,2,112.82,0.0,225.64,107.0,New,Net Banking
+ORD-2043,2024-10-30,North,Technology,Webcam HD,1,64.15,0.05,60.94,29.33,New,Debit Card
+ORD-1624,2024-10-31,East,Office Supplies,Pen Set,6,8.69,0.05,49.53,18.97,Returning,Debit Card
+ORD-1425,2024-10-31,South,Technology,Webcam HD,2,55.33,0.0,110.66,54.59,New,Credit Card
+ORD-1572,2024-10-31,North,Technology,Webcam HD,2,61.2,0.1,110.16,31.46,New,Credit Card
+ORD-1275,2024-11-01,South,Office Supplies,Notebook Pack,6,13.16,0.15,67.12,23.12,Returning,Debit Card
+ORD-1972,2024-11-01,South,Furniture,Desk Lamp,1,35.26,0.05,33.5,15.49,Returning,UPI
+ORD-1165,2024-11-01,West,Accessories,Wireless Mouse,4,23.8,0.0,95.2,31.91,Returning,Net Banking
+ORD-2079,2024-11-01,South,Technology,Webcam HD,5,62.63,0.2,250.52,75.44,New,Debit Card
+ORD-1929,2024-11-01,East,Technology,Webcam HD,3,62.19,0.0,186.57,46.76,Returning,UPI
+ORD-1732,2024-11-02,South,Office Supplies,Pen Set,5,8.68,0.0,43.4,16.6,Returning,Debit Card
+ORD-1464,2024-11-02,East,Technology,Wireless Headphones,1,78.0,0.05,74.1,19.03,Returning,Debit Card
+ORD-2185,2024-11-03,North,Furniture,Desk Lamp,5,36.36,0.0,181.8,66.18,Returning,Debit Card
+ORD-1777,2024-11-05,North,Furniture,Bookshelf,5,125.53,0.0,627.65,266.96,Returning,Credit Card
+ORD-2059,2024-11-06,South,Technology,Laptop Stand,4,45.68,0.0,182.72,60.45,New,UPI
+ORD-1500,2024-11-07,North,Office Supplies,Notebook Pack,2,13.98,0.0,27.96,11.14,New,UPI
+ORD-1954,2024-11-08,West,Technology,Laptop Stand,1,42.56,0.1,38.3,9.74,New,Credit Card
+ORD-1547,2024-11-09,Central,Technology,Portable SSD,4,111.75,0.1,402.3,173.48,Returning,UPI
+ORD-2153,2024-11-10,Central,Technology,Webcam HD,1,63.68,0.0,63.68,18.5,Returning,UPI
+ORD-1238,2024-11-11,West,Office Supplies,Printer Paper,2,6.49,0.1,11.68,5.96,Returning,Debit Card
+ORD-1795,2024-11-11,East,Technology,Webcam HD,4,59.77,0.1,215.17,94.52,New,Net Banking
+ORD-1994,2024-11-11,West,Furniture,Standing Desk,4,403.26,0.1,1451.74,452.64,Returning,UPI
+ORD-1473,2024-11-11,South,Office Supplies,Printer Paper,2,6.0,0.15,10.2,3.81,New,UPI
+ORD-1005,2024-11-12,West,Technology,Wireless Headphones,3,74.99,0.0,224.97,74.45,Returning,Debit Card
+ORD-1621,2024-11-12,South,Accessories,Wireless Mouse,3,23.69,0.0,71.07,18.4,Returning,Credit Card
+ORD-1155,2024-11-13,South,Furniture,Standing Desk,2,374.08,0.0,748.16,388.92,Returning,Debit Card
+ORD-1633,2024-11-13,North,Accessories,Phone Stand,5,15.58,0.0,77.9,31.38,Returning,Credit Card
+ORD-2100,2024-11-13,Central,Office Supplies,Notebook Pack,2,13.34,0.1,24.01,8.69,Returning,Debit Card
+ORD-1435,2024-11-13,East,Furniture,Bookshelf,2,128.05,0.0,256.1,86.62,New,UPI
+ORD-1407,2024-11-13,South,Technology,Wireless Headphones,2,77.14,0.05,146.57,61.17,Returning,Credit Card
+ORD-1354,2024-11-14,West,Technology,Laptop Stand,4,47.71,0.0,190.84,49.85,Returning,UPI
+ORD-1091,2024-11-14,Central,Office Supplies,Notebook Pack,3,13.59,0.0,40.77,17.43,New,UPI
+ORD-1140,2024-11-15,East,Accessories,Wireless Mouse,6,26.07,0.0,156.42,66.58,Returning,Debit Card
+ORD-1082,2024-11-15,East,Accessories,USB-C Hub,6,37.48,0.0,224.88,109.68,New,Debit Card
+ORD-2039,2024-11-15,South,Accessories,Laptop Sleeve,2,31.49,0.05,59.83,23.69,New,UPI
+ORD-1756,2024-11-16,North,Technology,Portable SSD,5,116.9,0.0,584.5,201.12,New,Credit Card
+ORD-1004,2024-11-16,West,Accessories,USB-C Hub,3,37.33,0.1,100.79,36.74,Returning,Debit Card
+ORD-1298,2024-11-16,South,Office Supplies,Printer Paper,5,6.88,0.1,30.96,10.78,New,UPI
+ORD-1121,2024-11-17,East,Accessories,Wireless Mouse,4,26.62,0.15,90.51,27.01,New,Credit Card
+ORD-1285,2024-11-18,South,Technology,Laptop Stand,2,42.95,0.0,85.9,38.06,Returning,Credit Card
+ORD-1800,2024-11-19,South,Accessories,Wireless Mouse,4,26.34,0.1,94.82,29.79,Returning,Debit Card
+ORD-1935,2024-11-19,South,Technology,Laptop Stand,3,44.91,0.2,107.78,55.78,Returning,Net Banking
+ORD-1030,2024-11-20,Central,Furniture,Bookshelf,5,131.38,0.1,591.21,181.88,Returning,UPI
+ORD-1047,2024-11-21,Central,Office Supplies,Desk Organizer,2,20.34,0.0,40.68,19.8,New,UPI
+ORD-1689,2024-11-21,East,Furniture,Bookshelf,6,122.28,0.2,586.94,244.78,New,UPI
+ORD-1267,2024-11-22,South,Furniture,Standing Desk,6,387.11,0.0,2322.66,846.81,New,UPI
+ORD-1869,2024-11-22,North,Office Supplies,Desk Organizer,2,20.42,0.05,38.8,18.96,Returning,Debit Card
+ORD-1186,2024-11-22,South,Furniture,Standing Desk,2,379.6,0.1,683.28,226.2,New,UPI
+ORD-1219,2024-11-22,North,Office Supplies,Notebook Pack,1,13.69,0.15,11.64,5.76,New,Debit Card
+ORD-1923,2024-11-22,Central,Accessories,Laptop Sleeve,6,29.72,0.15,151.57,61.91,Returning,Net Banking
+ORD-2184,2024-11-23,North,Office Supplies,Printer Paper,6,6.97,0.0,41.82,19.16,Returning,Net Banking
+ORD-2092,2024-11-23,East,Technology,Webcam HD,4,55.64,0.1,200.3,82.93,Returning,Debit Card
+ORD-1214,2024-11-24,Central,Furniture,Office Chair,2,187.9,0.05,357.01,125.85,Returning,Credit Card
+ORD-1883,2024-11-24,Central,Accessories,Phone Stand,5,15.11,0.0,75.55,30.34,Returning,Net Banking
+ORD-2057,2024-11-24,West,Accessories,Laptop Sleeve,3,30.38,0.0,91.14,23.92,Returning,Net Banking
+ORD-1020,2024-11-25,Central,Technology,Webcam HD,3,57.38,0.1,154.93,66.22,New,UPI
+ORD-1031,2024-11-25,Central,Technology,Wireless Headphones,5,78.81,0.05,374.35,184.8,Returning,Debit Card
+ORD-1833,2024-11-27,West,Furniture,Desk Lamp,6,32.48,0.1,175.39,47.79,Returning,Credit Card
+ORD-1506,2024-11-27,Central,Technology,Wireless Headphones,1,74.09,0.05,70.39,31.22,Returning,Credit Card
+ORD-1792,2024-11-28,West,Furniture,Office Chair,6,196.77,0.0,1180.62,424.21,Returning,Debit Card
+ORD-1871,2024-11-29,Central,Accessories,USB-C Hub,2,39.61,0.0,79.22,34.63,New,UPI
+ORD-1222,2024-11-29,South,Furniture,Desk Lamp,4,34.02,0.05,129.28,56.17,New,Credit Card
+ORD-1537,2024-11-29,South,Furniture,Standing Desk,6,385.94,0.0,2315.64,917.48,Returning,UPI
+ORD-1205,2024-11-30,South,Technology,Webcam HD,6,63.6,0.1,343.44,165.47,New,UPI
+ORD-1905,2024-12-01,West,Technology,Laptop Stand,5,43.82,0.1,197.19,88.14,Returning,UPI
+ORD-1114,2024-12-01,West,Accessories,Wireless Mouse,4,24.83,0.1,89.39,41.09,New,Credit Card
+ORD-1916,2024-12-01,North,Office Supplies,Printer Paper,3,6.57,0.1,17.74,5.02,New,UPI
+ORD-1798,2024-12-01,Central,Accessories,Phone Stand,2,15.48,0.1,27.86,6.93,New,Debit Card
+ORD-1647,2024-12-02,East,Furniture,Bookshelf,5,137.81,0.1,620.14,280.31,New,Credit Card
+ORD-1335,2024-12-02,East,Office Supplies,Printer Paper,5,6.82,0.1,30.69,11.8,New,Credit Card
+ORD-1176,2024-12-03,Central,Accessories,USB-C Hub,3,40.95,0.2,98.28,47.92,Returning,Credit Card
+ORD-1939,2024-12-03,East,Office Supplies,Pen Set,1,9.48,0.0,9.48,3.33,New,Credit Card
+ORD-1231,2024-12-04,East,Accessories,Wireless Mouse,1,25.15,0.0,25.15,9.69,New,UPI
+ORD-1073,2024-12-04,North,Furniture,Desk Lamp,3,33.36,0.0,100.08,30.98,New,Credit Card
+ORD-1612,2024-12-04,South,Furniture,Standing Desk,5,410.44,0.0,2052.2,930.88,Returning,Credit Card
+ORD-1485,2024-12-04,South,Office Supplies,Notebook Pack,1,13.31,0.05,12.64,4.67,Returning,Net Banking
+ORD-1710,2024-12-06,West,Office Supplies,Desk Organizer,1,22.79,0.0,22.79,10.51,Returning,Credit Card
+ORD-1474,2024-12-07,East,Accessories,Laptop Sleeve,6,28.33,0.0,169.98,54.11,New,Debit Card
+ORD-1277,2024-12-07,North,Technology,Webcam HD,1,63.57,0.0,63.57,20.71,New,UPI
+ORD-1054,2024-12-07,South,Office Supplies,Notebook Pack,2,12.71,0.2,20.34,6.37,Returning,Debit Card
+ORD-2075,2024-12-07,South,Office Supplies,Printer Paper,2,6.12,0.05,11.63,4.21,New,UPI
+ORD-1070,2024-12-09,North,Technology,Laptop Stand,1,41.88,0.05,39.79,20.1,Returning,Debit Card
+ORD-2102,2024-12-09,Central,Office Supplies,Desk Organizer,4,21.48,0.0,85.92,38.74,Returning,UPI
+ORD-1367,2024-12-09,North,Accessories,Phone Stand,3,13.83,0.0,41.49,16.07,Returning,Debit Card
+ORD-1109,2024-12-10,North,Office Supplies,Notebook Pack,5,12.43,0.05,59.04,18.77,Returning,Credit Card
+ORD-1124,2024-12-10,North,Office Supplies,Printer Paper,6,6.55,0.0,39.3,17.18,New,Credit Card
+ORD-1974,2024-12-12,East,Technology,Laptop Stand,3,45.59,0.2,109.42,43.74,Returning,UPI
+ORD-1944,2024-12-12,North,Office Supplies,Printer Paper,4,6.19,0.0,24.76,7.15,Returning,UPI
+ORD-1290,2024-12-12,Central,Office Supplies,Notebook Pack,5,12.27,0.05,58.28,26.32,New,Debit Card
+ORD-1076,2024-12-13,North,Office Supplies,Printer Paper,4,6.71,0.15,22.81,11.69,Returning,UPI
+ORD-1519,2024-12-13,North,Technology,Wireless Headphones,1,81.49,0.05,77.42,21.42,New,UPI
+ORD-1709,2024-12-13,North,Furniture,Desk Lamp,6,36.68,0.0,220.08,112.14,Returning,Credit Card
+ORD-1973,2024-12-14,East,Office Supplies,Notebook Pack,6,12.83,0.05,73.13,27.86,New,UPI
+ORD-1785,2024-12-15,South,Furniture,Office Chair,3,189.99,0.0,569.97,292.23,Returning,Credit Card
+ORD-1622,2024-12-15,Central,Technology,Portable SSD,6,110.75,0.0,664.5,252.28,New,Credit Card
+ORD-2101,2024-12-16,East,Office Supplies,Printer Paper,4,6.45,0.05,24.51,7.88,Returning,Credit Card
+ORD-1768,2024-12-16,South,Technology,Webcam HD,4,58.38,0.1,210.17,74.06,New,Credit Card
+ORD-1644,2024-12-17,Central,Office Supplies,Printer Paper,1,6.96,0.0,6.96,1.73,New,UPI
+ORD-2146,2024-12-18,East,Accessories,Wireless Mouse,1,24.16,0.1,21.74,8.55,New,Debit Card
+ORD-1276,2024-12-18,South,Accessories,USB-C Hub,3,40.6,0.0,121.8,59.28,New,Debit Card
+ORD-1282,2024-12-21,South,Accessories,Laptop Sleeve,3,29.66,0.0,88.98,25.96,Returning,Net Banking
+ORD-2031,2024-12-22,East,Technology,Laptop Stand,1,45.7,0.0,45.7,13.8,Returning,UPI
+ORD-1729,2024-12-22,North,Technology,Webcam HD,1,58.98,0.0,58.98,22.96,Returning,UPI
+ORD-1444,2024-12-23,South,Furniture,Desk Lamp,2,36.06,0.0,72.12,28.72,New,UPI
+ORD-1651,2024-12-23,West,Furniture,Bookshelf,4,131.33,0.1,472.79,178.5,Returning,Debit Card
+ORD-1284,2024-12-24,North,Furniture,Bookshelf,1,131.17,0.05,124.61,32.32,Returning,UPI
+ORD-2116,2024-12-24,East,Accessories,Phone Stand,4,15.02,0.0,60.08,29.8,Returning,Credit Card
+ORD-1718,2024-12-25,Central,Furniture,Standing Desk,3,413.67,0.0,1241.01,341.96,Returning,UPI
+ORD-1563,2024-12-26,South,Office Supplies,Desk Organizer,4,23.26,0.15,79.08,28.65,New,UPI
+ORD-1235,2024-12-26,North,Office Supplies,Pen Set,4,8.34,0.0,33.36,16.01,New,Net Banking
+ORD-2120,2024-12-26,West,Office Supplies,Notebook Pack,1,11.99,0.0,11.99,5.01,Returning,Debit Card
+ORD-1203,2024-12-27,South,Technology,Portable SSD,6,116.43,0.2,558.86,235.03,Returning,Credit Card
+ORD-2018,2024-12-27,West,Office Supplies,Desk Organizer,3,22.48,0.1,60.7,31.42,New,Debit Card
+ORD-1252,2024-12-27,West,Office Supplies,Notebook Pack,3,13.65,0.15,34.81,13.3,New,UPI
+ORD-1185,2024-12-28,North,Technology,Laptop Stand,6,45.21,0.0,271.26,66.89,New,Credit Card
+ORD-1055,2024-12-29,South,Office Supplies,Printer Paper,6,6.64,0.05,37.85,16.05,Returning,Credit Card
+ORD-1183,2024-12-29,South,Accessories,Wireless Mouse,3,23.2,0.0,69.6,17.77,Returning,Credit Card
+ORD-2162,2024-12-30,Central,Technology,Wireless Headphones,6,80.04,0.05,456.23,235.89,Returning,Debit Card
+ORD-1405,2024-12-30,North,Furniture,Standing Desk,3,396.14,0.0,1188.42,389.84,Returning,Credit Card
+ORD-1453,2024-12-30,North,Office Supplies,Pen Set,1,9.26,0.2,7.41,3.48,New,Credit Card
+ORD-1021,2024-12-31,North,Office Supplies,Notebook Pack,1,12.24,0.0,12.24,3.22,New,Credit Card
+ORD-1406,2025-01-01,East,Office Supplies,Desk Organizer,4,22.37,0.1,80.53,20.25,Returning,Debit Card
+ORD-2053,2025-01-01,Central,Office Supplies,Notebook Pack,3,13.65,0.1,36.86,16.04,Returning,UPI
+ORD-1180,2025-01-01,North,Furniture,Bookshelf,3,135.87,0.0,407.61,104.4,Returning,Debit Card
+ORD-2091,2025-01-02,East,Office Supplies,Notebook Pack,2,13.36,0.0,26.72,10.38,Returning,Credit Card
+ORD-1667,2025-01-02,South,Accessories,USB-C Hub,1,38.38,0.2,30.7,13.3,New,UPI
+ORD-1876,2025-01-03,Central,Accessories,USB-C Hub,6,40.46,0.05,230.62,61.98,Returning,Credit Card
+ORD-1556,2025-01-03,Central,Technology,Wireless Headphones,1,78.68,0.0,78.68,35.5,New,Debit Card
+ORD-2008,2025-01-03,South,Technology,Portable SSD,3,118.56,0.05,337.9,149.92,Returning,Net Banking
+ORD-2152,2025-01-04,North,Furniture,Desk Lamp,5,34.33,0.0,171.65,59.0,Returning,Credit Card
+ORD-1629,2025-01-04,South,Technology,Webcam HD,4,62.57,0.1,225.25,113.41,Returning,Credit Card
+ORD-1115,2025-01-04,Central,Office Supplies,Notebook Pack,5,12.52,0.15,53.21,26.02,New,Credit Card
+ORD-1159,2025-01-04,West,Office Supplies,Printer Paper,6,6.18,0.15,31.52,11.73,New,UPI
+ORD-1420,2025-01-05,Central,Accessories,Phone Stand,5,15.21,0.0,76.05,18.48,New,UPI
+ORD-1445,2025-01-06,North,Furniture,Desk Lamp,3,32.23,0.05,91.86,24.42,Returning,Credit Card
+ORD-1940,2025-01-06,South,Accessories,USB-C Hub,5,42.79,0.0,213.95,76.37,Returning,Debit Card
+ORD-2051,2025-01-06,West,Accessories,USB-C Hub,2,36.98,0.05,70.26,36.36,New,UPI
+ORD-1897,2025-01-07,Central,Accessories,Phone Stand,5,14.01,0.0,70.05,34.7,Returning,UPI
+ORD-2000,2025-01-09,West,Accessories,Wireless Mouse,3,26.08,0.0,78.24,26.22,Returning,UPI
+ORD-1017,2025-01-10,South,Furniture,Desk Lamp,4,32.48,0.0,129.92,63.5,New,Debit Card
+ORD-1608,2025-01-10,North,Technology,Wireless Headphones,4,74.4,0.0,297.6,97.65,New,Debit Card
+ORD-1803,2025-01-11,Central,Furniture,Standing Desk,1,403.41,0.0,403.41,98.32,New,UPI
+ORD-1344,2025-01-11,South,Office Supplies,Pen Set,5,9.12,0.1,41.04,12.45,New,Credit Card
+ORD-1549,2025-01-12,North,Furniture,Office Chair,2,180.56,0.1,325.01,85.34,New,Debit Card
+ORD-2165,2025-01-12,South,Accessories,USB-C Hub,2,38.75,0.0,77.5,28.06,New,Net Banking
+ORD-1717,2025-01-13,East,Furniture,Office Chair,2,203.9,0.05,387.41,146.22,Returning,UPI
+ORD-1366,2025-01-14,South,Office Supplies,Printer Paper,6,6.37,0.0,38.22,14.46,New,Credit Card
+ORD-2015,2025-01-14,North,Accessories,USB-C Hub,5,36.96,0.0,184.8,86.0,Returning,Credit Card
+ORD-1701,2025-01-15,West,Office Supplies,Pen Set,3,8.54,0.05,24.34,11.65,Returning,Credit Card
+ORD-1296,2025-01-15,East,Accessories,Laptop Sleeve,6,30.43,0.0,182.58,81.8,New,Credit Card
+ORD-2010,2025-01-15,West,Accessories,Wireless Mouse,2,25.91,0.0,51.82,15.67,Returning,Debit Card
+ORD-1449,2025-01-15,East,Accessories,Phone Stand,5,14.11,0.0,70.55,35.31,New,Debit Card
+ORD-1893,2025-01-16,South,Office Supplies,Notebook Pack,3,12.87,0.0,38.61,14.59,Returning,Net Banking
+ORD-1679,2025-01-17,North,Accessories,USB-C Hub,6,37.54,0.0,225.24,58.86,New,UPI
+ORD-1578,2025-01-17,East,Furniture,Standing Desk,1,375.84,0.0,375.84,184.66,New,Credit Card
+ORD-1712,2025-01-17,Central,Furniture,Desk Lamp,6,37.39,0.1,201.91,53.67,New,Debit Card
+ORD-2074,2025-01-18,West,Office Supplies,Notebook Pack,6,13.21,0.1,71.33,22.03,Returning,Credit Card
+ORD-2195,2025-01-19,West,Technology,Wireless Headphones,3,77.94,0.0,233.82,89.66,New,Debit Card
+ORD-1997,2025-01-19,South,Office Supplies,Notebook Pack,5,13.91,0.1,62.59,18.48,Returning,UPI
+ORD-1011,2025-01-19,South,Technology,Laptop Stand,2,44.65,0.0,89.3,30.57,Returning,Net Banking
+ORD-1995,2025-01-22,West,Accessories,Laptop Sleeve,5,28.29,0.1,127.3,42.04,New,Net Banking
+ORD-1488,2025-01-22,South,Furniture,Office Chair,3,198.21,0.15,505.44,260.16,Returning,UPI
+ORD-1507,2025-01-23,North,Furniture,Bookshelf,3,136.28,0.15,347.51,168.42,Returning,Net Banking
+ORD-2147,2025-01-23,East,Office Supplies,Pen Set,1,9.34,0.0,9.34,2.97,Returning,Credit Card
+ORD-2164,2025-01-23,Central,Office Supplies,Notebook Pack,5,13.59,0.05,64.55,27.8,New,UPI
+ORD-1656,2025-01-24,Central,Furniture,Bookshelf,2,131.39,0.0,262.78,102.63,Returning,Credit Card
+ORD-1747,2025-01-24,East,Office Supplies,Desk Organizer,6,22.1,0.1,119.34,40.5,Returning,UPI
+ORD-1351,2025-01-24,West,Technology,Portable SSD,6,127.81,0.05,728.52,199.73,Returning,Credit Card
+ORD-1648,2025-01-26,Central,Office Supplies,Printer Paper,4,6.06,0.1,21.82,5.26,Returning,Debit Card
+ORD-1606,2025-01-26,South,Technology,Laptop Stand,5,46.71,0.1,210.2,52.77,Returning,UPI
+ORD-1931,2025-01-27,North,Technology,Wireless Headphones,3,79.45,0.15,202.6,52.53,Returning,Net Banking
+ORD-1561,2025-01-27,South,Technology,Laptop Stand,4,41.76,0.05,158.69,41.06,Returning,UPI
+ORD-1539,2025-01-29,North,Office Supplies,Desk Organizer,4,20.66,0.15,70.24,23.1,New,UPI
+ORD-2140,2025-01-29,North,Accessories,Wireless Mouse,5,24.94,0.0,124.7,55.6,Returning,Credit Card
+ORD-1877,2025-01-29,South,Furniture,Bookshelf,6,135.03,0.1,729.16,242.8,Returning,Debit Card
+ORD-1927,2025-01-30,South,Accessories,USB-C Hub,4,41.4,0.2,132.48,43.78,New,Credit Card
+ORD-1289,2025-01-31,East,Furniture,Standing Desk,4,371.68,0.2,1189.38,311.14,Returning,Credit Card
+ORD-1305,2025-01-31,North,Technology,Laptop Stand,2,46.47,0.2,74.35,25.8,New,UPI
+ORD-1917,2025-01-31,North,Technology,Wireless Headphones,5,80.72,0.0,403.6,201.96,Returning,Credit Card
+ORD-1807,2025-02-02,South,Office Supplies,Pen Set,2,8.59,0.2,13.74,5.72,New,UPI
+ORD-1295,2025-02-02,North,Technology,Laptop Stand,6,43.81,0.05,249.72,118.87,New,Net Banking
+ORD-1029,2025-02-02,South,Accessories,USB-C Hub,1,38.27,0.05,36.36,10.01,Returning,UPI
+ORD-1789,2025-02-02,South,Furniture,Standing Desk,5,419.73,0.1,1888.79,460.0,Returning,UPI
+ORD-1057,2025-02-03,North,Accessories,Phone Stand,2,14.1,0.1,25.38,11.24,New,Debit Card
+ORD-1983,2025-02-03,West,Accessories,Wireless Mouse,6,25.2,0.1,136.08,35.74,Returning,Debit Card
+ORD-1331,2025-02-03,East,Accessories,Phone Stand,4,14.51,0.15,49.33,24.07,New,Debit Card
+ORD-1229,2025-02-03,West,Accessories,Phone Stand,5,15.45,0.0,77.25,26.51,Returning,Debit Card
+ORD-1879,2025-02-04,West,Furniture,Desk Lamp,1,37.24,0.2,29.79,15.08,Returning,Debit Card
+ORD-1992,2025-02-05,Central,Office Supplies,Printer Paper,2,6.01,0.1,10.82,5.03,Returning,Credit Card
+ORD-1132,2025-02-08,North,Accessories,Laptop Sleeve,5,28.91,0.0,144.55,64.86,Returning,UPI
+ORD-1762,2025-02-08,West,Office Supplies,Pen Set,3,8.36,0.05,23.83,6.44,Returning,Credit Card
+ORD-1655,2025-02-08,East,Furniture,Desk Lamp,4,32.73,0.05,124.37,34.24,Returning,Credit Card
+ORD-1755,2025-02-09,West,Accessories,Laptop Sleeve,4,28.85,0.1,103.86,50.46,Returning,UPI
+ORD-1330,2025-02-09,South,Office Supplies,Pen Set,1,8.46,0.0,8.46,2.14,New,UPI
+ORD-1034,2025-02-09,North,Technology,Webcam HD,6,62.85,0.15,320.54,157.72,Returning,Credit Card
+ORD-1308,2025-02-09,South,Office Supplies,Notebook Pack,1,12.51,0.0,12.51,4.41,New,Net Banking
+ORD-1456,2025-02-09,South,Accessories,Phone Stand,5,15.01,0.05,71.3,22.74,Returning,Credit Card
+ORD-1113,2025-02-10,Central,Accessories,Phone Stand,4,15.38,0.0,61.52,20.42,New,UPI
+ORD-2129,2025-02-10,West,Accessories,USB-C Hub,5,39.1,0.0,195.5,49.7,Returning,Net Banking
+ORD-2084,2025-02-10,Central,Technology,Wireless Headphones,5,84.51,0.05,401.42,106.74,New,Debit Card
+ORD-1158,2025-02-11,Central,Technology,Portable SSD,2,115.44,0.0,230.88,82.4,Returning,UPI
+ORD-1134,2025-02-12,Central,Accessories,Laptop Sleeve,6,28.68,0.15,146.27,73.99,New,UPI
+ORD-2003,2025-02-12,East,Office Supplies,Pen Set,5,9.32,0.0,46.6,12.02,New,Debit Card
+ORD-1706,2025-02-16,North,Office Supplies,Notebook Pack,2,13.6,0.0,27.2,12.87,Returning,Net Banking
+ORD-1079,2025-02-16,North,Technology,Webcam HD,6,59.76,0.05,340.63,87.9,New,UPI
+ORD-1131,2025-02-17,East,Office Supplies,Desk Organizer,1,20.94,0.05,19.89,9.31,New,Debit Card
+ORD-2029,2025-02-17,Central,Accessories,Laptop Sleeve,6,32.18,0.1,173.77,81.67,New,UPI
+ORD-1126,2025-02-17,South,Accessories,Phone Stand,1,15.74,0.1,14.17,6.43,Returning,Credit Card
+ORD-1980,2025-02-17,West,Accessories,Wireless Mouse,4,26.13,0.1,94.07,37.84,Returning,Credit Card
+ORD-1437,2025-02-18,North,Technology,Portable SSD,2,125.07,0.0,250.14,71.53,New,UPI
+ORD-2189,2025-02-18,South,Office Supplies,Notebook Pack,2,13.92,0.0,27.84,7.77,New,Credit Card
+ORD-1116,2025-02-19,North,Furniture,Desk Lamp,4,36.45,0.15,123.93,39.87,New,UPI
+ORD-1570,2025-02-21,East,Furniture,Standing Desk,2,368.23,0.0,736.46,315.99,Returning,Credit Card
+ORD-1288,2025-02-21,Central,Accessories,Wireless Mouse,2,24.67,0.1,44.41,18.32,New,Net Banking
+ORD-1922,2025-02-22,North,Technology,Laptop Stand,1,42.47,0.1,38.22,14.26,Returning,Net Banking
+ORD-1978,2025-02-22,Central,Accessories,Phone Stand,6,14.02,0.0,84.12,37.14,Returning,Net Banking
+ORD-1708,2025-02-22,North,Office Supplies,Desk Organizer,1,21.09,0.05,20.04,5.46,New,Debit Card
+ORD-1129,2025-02-24,South,Furniture,Desk Lamp,5,33.25,0.0,166.25,77.35,Returning,Debit Card
+ORD-1930,2025-02-26,East,Office Supplies,Desk Organizer,2,23.28,0.0,46.56,18.61,New,Debit Card
+ORD-1535,2025-02-26,West,Office Supplies,Notebook Pack,4,13.1,0.05,49.78,22.79,Returning,UPI
+ORD-1228,2025-02-27,North,Technology,Webcam HD,4,64.13,0.0,256.52,124.5,Returning,Credit Card
+ORD-1597,2025-02-27,East,Accessories,USB-C Hub,2,43.17,0.0,86.34,44.17,Returning,Debit Card
+ORD-1266,2025-02-28,West,Office Supplies,Desk Organizer,5,21.67,0.0,108.35,51.25,Returning,Credit Card
+ORD-1677,2025-02-28,East,Accessories,USB-C Hub,6,41.29,0.1,222.97,115.31,New,Credit Card
+ORD-1424,2025-02-28,Central,Furniture,Office Chair,1,188.98,0.0,188.98,45.86,Returning,UPI
+ORD-1242,2025-03-02,North,Accessories,Wireless Mouse,4,25.55,0.1,91.98,30.05,Returning,UPI
+ORD-2161,2025-03-02,Central,Technology,Portable SSD,1,117.03,0.1,105.33,48.12,Returning,Debit Card
+ORD-2118,2025-03-04,Central,Accessories,Wireless Mouse,2,23.35,0.1,42.03,10.25,Returning,UPI
+ORD-1260,2025-03-05,West,Furniture,Desk Lamp,3,35.0,0.05,99.75,38.68,Returning,UPI
+ORD-1985,2025-03-05,South,Furniture,Bookshelf,1,124.41,0.0,124.41,37.05,New,Debit Card
+ORD-2156,2025-03-05,East,Office Supplies,Desk Organizer,2,22.48,0.0,44.96,20.73,Returning,UPI
+ORD-1786,2025-03-06,Central,Technology,Webcam HD,4,62.89,0.0,251.56,64.79,Returning,Credit Card
+ORD-1966,2025-03-06,North,Technology,Wireless Headphones,4,85.6,0.0,342.4,94.93,Returning,UPI
+ORD-1698,2025-03-07,East,Office Supplies,Printer Paper,3,6.42,0.0,19.26,9.82,Returning,Debit Card
+ORD-1981,2025-03-07,North,Accessories,Laptop Sleeve,2,29.57,0.0,59.14,16.45,Returning,Debit Card
+ORD-1270,2025-03-07,West,Accessories,USB-C Hub,1,41.89,0.15,35.61,9.85,Returning,UPI
+ORD-1548,2025-03-08,South,Furniture,Standing Desk,2,426.49,0.1,767.68,203.45,New,Credit Card
+ORD-1915,2025-03-08,North,Furniture,Desk Lamp,6,37.68,0.15,192.17,52.32,Returning,UPI
+ORD-1688,2025-03-09,North,Technology,Wireless Headphones,4,75.38,0.1,271.37,99.1,Returning,Debit Card
+ORD-1520,2025-03-10,Central,Furniture,Office Chair,3,191.35,0.15,487.94,197.01,New,Net Banking
+ORD-1468,2025-03-11,North,Technology,Webcam HD,1,62.98,0.05,59.83,28.98,Returning,Credit Card
+ORD-1665,2025-03-12,West,Office Supplies,Printer Paper,2,6.59,0.0,13.18,3.91,Returning,Credit Card
+ORD-1455,2025-03-12,Central,Office Supplies,Pen Set,5,8.52,0.0,42.6,17.57,Returning,Debit Card
+ORD-2188,2025-03-13,West,Technology,Webcam HD,6,57.42,0.0,344.52,85.1,Returning,Debit Card
+ORD-1531,2025-03-13,South,Accessories,Wireless Mouse,3,24.71,0.0,74.13,30.35,New,Debit Card
+ORD-1394,2025-03-14,North,Technology,Wireless Headphones,5,84.81,0.0,424.05,183.75,New,UPI
+ORD-1720,2025-03-14,Central,Accessories,Wireless Mouse,3,24.99,0.0,74.97,32.1,Returning,UPI
+ORD-1967,2025-03-15,East,Accessories,Phone Stand,3,15.33,0.0,45.99,22.88,New,Debit Card
+ORD-2048,2025-03-15,East,Technology,Wireless Headphones,6,81.59,0.1,440.59,163.42,Returning,Debit Card
+ORD-1494,2025-03-16,South,Furniture,Standing Desk,2,384.13,0.2,614.61,194.71,New,Debit Card
+ORD-1137,2025-03-16,West,Office Supplies,Desk Organizer,3,23.44,0.1,63.29,28.54,Returning,UPI
+ORD-1625,2025-03-17,South,Office Supplies,Printer Paper,1,6.63,0.05,6.3,1.66,Returning,UPI
+ORD-1490,2025-03-18,South,Accessories,Phone Stand,1,14.51,0.0,14.51,5.79,Returning,Credit Card
+ORD-1850,2025-03-18,South,Technology,Wireless Headphones,5,85.09,0.15,361.63,148.57,Returning,Debit Card
+ORD-1193,2025-03-19,South,Furniture,Office Chair,5,200.46,0.1,902.07,242.89,Returning,Debit Card
+ORD-2181,2025-03-20,East,Technology,Wireless Headphones,3,82.02,0.1,221.45,94.56,Returning,UPI
+ORD-1956,2025-03-22,North,Technology,Wireless Headphones,6,78.26,0.2,375.65,96.06,New,Credit Card
+ORD-1896,2025-03-23,North,Furniture,Standing Desk,6,385.99,0.0,2315.94,792.63,Returning,UPI
+ORD-1767,2025-03-23,West,Office Supplies,Notebook Pack,4,13.08,0.1,47.09,13.23,New,Net Banking
+ORD-1269,2025-03-23,North,Furniture,Desk Lamp,5,33.24,0.0,166.2,63.29,New,Debit Card
+ORD-2135,2025-03-24,West,Accessories,Laptop Sleeve,4,28.12,0.05,106.86,37.89,Returning,UPI
+ORD-1953,2025-03-25,West,Accessories,USB-C Hub,4,41.99,0.05,159.56,69.1,New,Net Banking
+ORD-1672,2025-03-25,Central,Office Supplies,Printer Paper,5,6.02,0.0,30.1,11.14,Returning,Credit Card
+ORD-1323,2025-03-25,South,Accessories,Laptop Sleeve,3,30.02,0.0,90.06,23.2,Returning,Credit Card
+ORD-1601,2025-03-26,West,Office Supplies,Pen Set,2,8.48,0.0,16.96,6.19,New,Credit Card
+ORD-1900,2025-03-26,Central,Technology,Webcam HD,3,62.25,0.1,168.08,75.96,New,Credit Card
+ORD-1987,2025-03-26,Central,Accessories,USB-C Hub,5,42.75,0.0,213.75,86.96,Returning,UPI
+ORD-1702,2025-03-26,East,Technology,Wireless Headphones,6,83.19,0.0,499.14,206.17,New,Credit Card
+ORD-2200,2025-03-29,West,Furniture,Office Chair,3,202.79,0.0,608.37,299.47,Returning,Debit Card
+ORD-1675,2025-03-30,West,Accessories,Wireless Mouse,6,24.5,0.05,139.65,49.91,Returning,Debit Card
+ORD-1343,2025-03-30,West,Office Supplies,Printer Paper,6,6.51,0.0,39.06,16.59,New,Credit Card
+ORD-1825,2025-03-31,Central,Office Supplies,Notebook Pack,3,13.94,0.1,37.64,18.2,Returning,Debit Card
+ORD-1996,2025-04-02,South,Furniture,Desk Lamp,2,33.57,0.15,57.07,23.04,Returning,UPI
+ORD-1240,2025-04-03,South,Technology,Laptop Stand,1,47.41,0.0,47.41,22.72,Returning,Credit Card
+ORD-1599,2025-04-03,Central,Technology,Wireless Headphones,5,76.03,0.0,380.15,149.19,Returning,UPI
+ORD-1245,2025-04-04,South,Office Supplies,Desk Organizer,6,22.67,0.0,136.02,69.78,Returning,Credit Card
+ORD-2171,2025-04-04,North,Furniture,Bookshelf,3,139.9,0.0,419.7,216.42,New,UPI
+ORD-1192,2025-04-05,Central,Technology,Portable SSD,1,124.92,0.0,124.92,30.3,Returning,UPI
+ORD-1085,2025-04-05,North,Furniture,Bookshelf,4,126.27,0.0,505.08,235.32,Returning,UPI
+ORD-1880,2025-04-05,Central,Accessories,Laptop Sleeve,4,27.6,0.0,110.4,42.05,Returning,UPI
+ORD-2172,2025-04-06,South,Technology,Wireless Headphones,4,74.79,0.1,269.24,65.79,Returning,Credit Card
+ORD-1040,2025-04-06,North,Accessories,USB-C Hub,6,42.89,0.2,205.87,102.91,New,UPI
+ORD-1658,2025-04-07,North,Office Supplies,Printer Paper,4,6.23,0.05,23.67,8.32,Returning,Debit Card
+ORD-2111,2025-04-07,South,Accessories,Laptop Sleeve,3,30.65,0.2,73.56,22.83,Returning,UPI
+ORD-1475,2025-04-08,West,Office Supplies,Notebook Pack,4,12.86,0.0,51.44,24.15,New,Debit Card
+ORD-2196,2025-04-08,Central,Technology,Wireless Headphones,4,80.49,0.0,321.96,157.71,Returning,Debit Card
+ORD-1958,2025-04-08,North,Accessories,Laptop Sleeve,2,30.31,0.1,54.56,22.77,Returning,Net Banking
+ORD-1130,2025-04-08,Central,Office Supplies,Printer Paper,5,6.4,0.2,25.6,10.42,New,Debit Card
+ORD-1743,2025-04-08,South,Technology,Webcam HD,4,62.32,0.05,236.82,63.98,Returning,UPI
+ORD-1458,2025-04-08,Central,Technology,Portable SSD,3,115.75,0.2,277.8,69.85,New,Debit Card
+ORD-1341,2025-04-09,Central,Technology,Webcam HD,3,62.88,0.1,169.78,59.56,Returning,Debit Card
+ORD-1782,2025-04-10,South,Technology,Laptop Stand,6,44.06,0.2,211.49,67.98,New,UPI
+ORD-1099,2025-04-10,North,Accessories,Laptop Sleeve,1,29.04,0.1,26.14,6.98,Returning,Debit Card
+ORD-1920,2025-04-10,South,Accessories,USB-C Hub,1,41.13,0.15,34.96,14.66,New,Net Banking
+ORD-1673,2025-04-10,East,Office Supplies,Pen Set,3,9.23,0.0,27.69,10.52,Returning,UPI
+ORD-2128,2025-04-11,West,Technology,Portable SSD,1,124.3,0.05,118.08,55.85,Returning,Debit Card
+ORD-1616,2025-04-12,Central,Furniture,Desk Lamp,2,35.96,0.05,68.32,30.14,New,Credit Card
+ORD-2068,2025-04-13,Central,Office Supplies,Desk Organizer,4,20.74,0.0,82.96,33.02,New,Debit Card
+ORD-1600,2025-04-14,South,Accessories,USB-C Hub,3,39.42,0.05,112.35,48.6,Returning,Credit Card
+ORD-1569,2025-04-14,South,Furniture,Desk Lamp,6,34.9,0.15,177.99,47.99,Returning,Credit Card
+ORD-1026,2025-04-15,North,Office Supplies,Desk Organizer,2,22.32,0.15,37.94,18.39,Returning,Credit Card
+ORD-1984,2025-04-18,South,Office Supplies,Printer Paper,4,6.49,0.0,25.96,9.7,Returning,Debit Card
+ORD-2130,2025-04-19,West,Technology,Portable SSD,2,110.86,0.1,199.55,71.85,Returning,Credit Card
+ORD-1934,2025-04-19,Central,Accessories,Wireless Mouse,1,24.64,0.0,24.64,11.95,Returning,UPI
+ORD-1244,2025-04-20,South,Office Supplies,Desk Organizer,3,20.84,0.2,50.02,21.53,Returning,UPI
+ORD-1824,2025-04-20,West,Technology,Wireless Headphones,3,77.75,0.0,233.25,110.65,Returning,Credit Card
+ORD-2089,2025-04-20,West,Technology,Webcam HD,3,64.1,0.15,163.45,69.32,New,UPI
+ORD-1771,2025-04-21,West,Technology,Laptop Stand,4,46.27,0.15,157.32,67.83,Returning,UPI
+ORD-1502,2025-04-21,East,Technology,Wireless Headphones,6,77.48,0.15,395.15,130.78,New,Credit Card
+ORD-1986,2025-04-21,West,Technology,Webcam HD,2,60.48,0.15,102.82,31.19,Returning,Credit Card
+ORD-1652,2025-04-22,West,Technology,Laptop Stand,5,41.93,0.05,199.17,65.7,Returning,Debit Card
+ORD-1123,2025-04-23,South,Accessories,USB-C Hub,6,42.38,0.2,203.42,55.09,Returning,Credit Card
+ORD-1003,2025-04-23,East,Office Supplies,Printer Paper,3,6.01,0.0,18.03,5.45,Returning,UPI
+ORD-1842,2025-04-24,West,Technology,Portable SSD,3,127.39,0.0,382.17,160.08,Returning,Net Banking
+ORD-1730,2025-04-25,South,Technology,Portable SSD,6,117.85,0.05,671.74,253.96,Returning,UPI
+ORD-1255,2025-04-27,North,Accessories,Laptop Sleeve,4,29.65,0.05,112.67,43.94,Returning,Credit Card
+ORD-1316,2025-04-27,North,Technology,Webcam HD,2,59.55,0.0,119.1,55.58,Returning,Credit Card
+ORD-1372,2025-04-28,South,Accessories,USB-C Hub,2,37.69,0.1,67.84,29.44,New,UPI
+ORD-1156,2025-04-28,East,Technology,Wireless Headphones,4,85.64,0.0,342.56,162.08,New,UPI
+ORD-1237,2025-04-29,Central,Technology,Webcam HD,4,59.05,0.2,188.96,95.56,Returning,UPI
+ORD-1446,2025-04-29,South,Office Supplies,Printer Paper,2,6.38,0.15,10.85,3.7,New,UPI
+ORD-1479,2025-04-30,North,Office Supplies,Pen Set,3,8.47,0.0,25.41,11.53,New,Net Banking
+ORD-1162,2025-04-30,North,Accessories,Phone Stand,3,15.61,0.0,46.83,17.09,New,Credit Card
+ORD-1819,2025-05-01,East,Accessories,Laptop Sleeve,5,31.26,0.0,156.3,49.4,Returning,Debit Card
+ORD-1311,2025-05-01,South,Technology,Wireless Headphones,1,83.59,0.1,75.23,23.09,New,UPI
+ORD-1822,2025-05-01,West,Office Supplies,Pen Set,1,9.06,0.05,8.61,2.7,New,Credit Card
+ORD-1108,2025-05-01,East,Technology,Laptop Stand,3,44.11,0.2,105.86,32.2,New,UPI
+ORD-2049,2025-05-03,South,Office Supplies,Desk Organizer,5,23.67,0.0,118.35,60.48,Returning,Credit Card
+ORD-1122,2025-05-03,West,Furniture,Desk Lamp,3,35.37,0.05,100.8,36.83,New,Credit Card
+ORD-1859,2025-05-04,East,Accessories,Wireless Mouse,1,23.71,0.0,23.71,7.14,New,Debit Card
+ORD-2132,2025-05-04,West,Technology,Wireless Headphones,3,83.84,0.15,213.79,101.41,Returning,Debit Card
+ORD-1080,2025-05-04,South,Technology,Laptop Stand,5,42.1,0.0,210.5,97.26,New,Credit Card
+ORD-1641,2025-05-05,Central,Accessories,Wireless Mouse,1,26.54,0.0,26.54,7.85,Returning,UPI
+ORD-1736,2025-05-05,Central,Office Supplies,Notebook Pack,3,13.48,0.15,34.37,8.5,New,Debit Card
+ORD-1283,2025-05-05,East,Office Supplies,Desk Organizer,3,21.84,0.1,58.97,23.82,New,Credit Card
+ORD-1312,2025-05-06,Central,Office Supplies,Desk Organizer,6,23.45,0.15,119.59,33.72,Returning,Credit Card
+ORD-2071,2025-05-08,South,Furniture,Bookshelf,6,131.62,0.1,710.75,271.83,Returning,Credit Card
+ORD-1416,2025-05-10,East,Technology,Webcam HD,6,64.05,0.0,384.3,177.52,Returning,Debit Card
+ORD-1257,2025-05-10,West,Office Supplies,Notebook Pack,6,12.82,0.2,61.54,17.98,Returning,Net Banking
+ORD-1049,2025-05-10,West,Technology,Webcam HD,6,55.67,0.0,334.02,141.67,Returning,Debit Card
+ORD-1711,2025-05-11,East,Accessories,Laptop Sleeve,2,28.01,0.0,56.02,15.98,Returning,Net Banking
+ORD-1550,2025-05-12,East,Office Supplies,Pen Set,3,8.59,0.05,24.48,11.58,New,UPI
+ORD-1827,2025-05-12,East,Technology,Laptop Stand,4,47.06,0.05,178.83,60.01,Returning,Credit Card
+ORD-1098,2025-05-13,North,Office Supplies,Desk Organizer,6,21.74,0.1,117.4,46.88,Returning,Net Banking
+ORD-1191,2025-05-14,South,Technology,Webcam HD,1,57.04,0.0,57.04,23.61,New,UPI
+ORD-1060,2025-05-14,East,Furniture,Office Chair,6,184.59,0.15,941.41,345.99,Returning,UPI
+ORD-1813,2025-05-15,South,Furniture,Desk Lamp,3,32.25,0.0,96.75,41.11,Returning,Credit Card
+ORD-1615,2025-05-16,North,Furniture,Standing Desk,2,430.78,0.0,861.56,405.54,New,UPI
+ORD-1788,2025-05-16,East,Accessories,Laptop Sleeve,1,32.14,0.1,28.93,12.13,Returning,UPI
+ORD-1636,2025-05-16,North,Accessories,Laptop Sleeve,3,30.39,0.0,91.17,36.67,New,Credit Card
+ORD-1075,2025-05-16,West,Accessories,Phone Stand,6,14.25,0.15,72.67,33.3,New,Debit Card
+ORD-2062,2025-05-17,South,Office Supplies,Printer Paper,3,6.53,0.1,17.63,8.52,New,UPI
+ORD-2149,2025-05-18,Central,Office Supplies,Notebook Pack,4,12.73,0.0,50.92,23.39,New,Credit Card
+ORD-1587,2025-05-18,West,Furniture,Standing Desk,4,396.68,0.0,1586.72,441.83,Returning,UPI
+ORD-2183,2025-05-19,East,Technology,Webcam HD,3,64.52,0.1,174.2,47.48,Returning,Credit Card
+ORD-1941,2025-05-20,South,Furniture,Bookshelf,4,123.65,0.1,445.14,113.78,Returning,Debit Card
+ORD-1422,2025-05-22,North,Furniture,Office Chair,1,179.2,0.2,143.36,53.6,New,Credit Card
+ORD-1666,2025-05-22,North,Furniture,Standing Desk,1,387.34,0.1,348.61,126.47,Returning,Debit Card
+ORD-1875,2025-05-24,West,Accessories,USB-C Hub,5,42.47,0.1,191.12,83.37,Returning,UPI
+ORD-1184,2025-05-24,East,Furniture,Office Chair,6,204.31,0.05,1164.57,521.18,Returning,UPI
+ORD-1008,2025-05-24,Central,Accessories,Phone Stand,2,14.74,0.05,28.01,12.41,New,Credit Card
+ORD-1175,2025-05-24,South,Furniture,Desk Lamp,1,36.41,0.05,34.59,15.23,Returning,UPI
+ORD-1866,2025-05-25,South,Technology,Portable SSD,3,113.59,0.05,323.73,151.18,Returning,Debit Card
+ORD-1932,2025-05-26,West,Office Supplies,Pen Set,5,9.35,0.0,46.75,12.41,Returning,UPI
+ORD-1086,2025-05-26,Central,Furniture,Standing Desk,3,408.51,0.05,1164.25,303.29,Returning,UPI
+ORD-1204,2025-05-26,West,Accessories,Phone Stand,2,13.95,0.1,25.11,12.78,New,Debit Card
+ORD-1043,2025-05-27,Central,Accessories,Wireless Mouse,1,23.39,0.15,19.88,8.87,New,UPI
+ORD-2194,2025-05-28,West,Office Supplies,Notebook Pack,6,12.07,0.0,72.42,29.2,Returning,Net Banking
+ORD-1982,2025-05-28,Central,Technology,Laptop Stand,5,42.05,0.2,168.2,80.26,New,Credit Card
+ORD-1223,2025-05-29,South,Accessories,USB-C Hub,4,41.23,0.0,164.92,46.62,New,Credit Card
+ORD-1110,2025-05-30,Central,Technology,Portable SSD,3,120.15,0.05,342.43,136.2,Returning,UPI
+ORD-2064,2025-05-30,South,Office Supplies,Desk Organizer,5,21.81,0.0,109.05,31.94,Returning,UPI
+ORD-2041,2025-05-31,East,Furniture,Standing Desk,5,390.04,0.0,1950.2,773.67,Returning,Net Banking
+ORD-1892,2025-06-02,South,Office Supplies,Pen Set,1,8.9,0.1,8.01,3.42,Returning,UPI
+ORD-1906,2025-06-02,South,Accessories,Wireless Mouse,2,25.39,0.0,50.78,24.88,Returning,Credit Card
+ORD-2045,2025-06-02,West,Furniture,Office Chair,6,186.1,0.05,1060.77,351.66,New,UPI
+ORD-1541,2025-06-02,South,Furniture,Standing Desk,1,424.3,0.0,424.3,164.28,New,UPI
+ORD-2077,2025-06-04,North,Technology,Wireless Headphones,5,78.46,0.2,313.84,151.34,New,Debit Card
+ORD-2197,2025-06-05,North,Accessories,USB-C Hub,1,38.82,0.05,36.88,10.01,New,Debit Card
+ORD-1430,2025-06-06,Central,Office Supplies,Notebook Pack,4,12.77,0.0,51.08,22.08,New,Debit Card
+ORD-1015,2025-06-08,North,Accessories,Laptop Sleeve,6,28.48,0.1,153.79,55.76,Returning,Net Banking
+ORD-1774,2025-06-08,Central,Office Supplies,Notebook Pack,4,13.45,0.05,51.11,15.73,New,UPI
+ORD-1212,2025-06-08,South,Technology,Laptop Stand,2,46.49,0.2,74.38,25.96,New,Credit Card
+ORD-1177,2025-06-08,South,Technology,Wireless Headphones,5,77.26,0.0,386.3,185.76,Returning,UPI
+ORD-1236,2025-06-09,South,Office Supplies,Desk Organizer,2,21.42,0.0,42.84,12.49,Returning,Debit Card
+ORD-1395,2025-06-10,South,Furniture,Office Chair,5,185.24,0.05,879.89,393.08,Returning,Credit Card
+ORD-1225,2025-06-11,North,Furniture,Standing Desk,1,431.43,0.05,409.86,183.56,New,UPI
+ORD-1697,2025-06-11,South,Furniture,Office Chair,5,187.7,0.2,750.8,307.97,Returning,Net Banking
+ORD-1727,2025-06-11,Central,Office Supplies,Notebook Pack,2,13.53,0.0,27.06,10.78,Returning,Credit Card
+ORD-1174,2025-06-12,North,Office Supplies,Pen Set,6,9.27,0.0,55.62,13.55,New,Debit Card
+ORD-1461,2025-06-12,North,Technology,Webcam HD,3,56.44,0.1,152.39,40.99,Returning,Credit Card
+ORD-1681,2025-06-12,South,Furniture,Bookshelf,1,140.32,0.1,126.29,46.98,Returning,Credit Card
+ORD-1793,2025-06-12,East,Accessories,Phone Stand,4,14.44,0.0,57.76,18.58,Returning,UPI
+ORD-2119,2025-06-12,North,Office Supplies,Notebook Pack,2,13.4,0.1,24.12,9.0,Returning,Credit Card
+ORD-2137,2025-06-13,North,Technology,Wireless Headphones,1,75.97,0.05,72.17,22.66,Returning,UPI
+ORD-1676,2025-06-14,East,Furniture,Office Chair,1,179.55,0.05,170.57,85.79,Returning,Debit Card
+ORD-1318,2025-06-15,North,Accessories,Laptop Sleeve,1,29.4,0.1,26.46,11.51,Returning,Credit Card
+ORD-1713,2025-06-15,East,Accessories,Phone Stand,4,16.11,0.0,64.44,29.82,Returning,Credit Card
+ORD-1731,2025-06-16,North,Office Supplies,Printer Paper,6,6.81,0.15,34.73,15.87,Returning,UPI
+ORD-1760,2025-06-17,Central,Office Supplies,Pen Set,3,8.47,0.1,22.87,9.1,New,UPI
+ORD-1317,2025-06-17,North,Office Supplies,Printer Paper,6,6.91,0.05,39.39,19.4,Returning,Debit Card
+ORD-2033,2025-06-18,South,Accessories,USB-C Hub,6,38.11,0.0,228.66,105.21,Returning,UPI
+ORD-1737,2025-06-18,North,Technology,Laptop Stand,6,46.18,0.0,277.08,78.2,Returning,Credit Card
+ORD-2009,2025-06-20,Central,Technology,Laptop Stand,4,46.35,0.05,176.13,62.15,New,UPI
+ORD-1662,2025-06-21,Central,Accessories,Phone Stand,1,15.2,0.2,12.16,4.56,New,Debit Card
+ORD-1013,2025-06-21,South,Office Supplies,Notebook Pack,4,12.57,0.1,45.25,20.47,New,Net Banking
+ORD-1886,2025-06-21,West,Accessories,Laptop Sleeve,5,31.67,0.05,150.43,77.22,Returning,Debit Card
+ORD-1631,2025-06-22,South,Furniture,Office Chair,5,186.21,0.1,837.95,289.63,Returning,Credit Card
+ORD-1557,2025-06-22,North,Technology,Portable SSD,6,118.49,0.0,710.94,258.5,Returning,Credit Card
+ORD-1377,2025-06-22,Central,Technology,Laptop Stand,2,43.75,0.1,78.75,27.39,Returning,Debit Card
+ORD-1215,2025-06-22,West,Furniture,Office Chair,2,183.53,0.0,367.06,172.93,Returning,Net Banking
+ORD-2002,2025-06-22,North,Technology,Webcam HD,1,62.19,0.0,62.19,21.15,New,UPI
+ORD-1757,2025-06-23,East,Accessories,USB-C Hub,2,43.12,0.1,77.62,25.81,Returning,UPI
+ORD-1805,2025-06-23,West,Technology,Laptop Stand,1,45.9,0.0,45.9,22.55,Returning,Net Banking
+ORD-1471,2025-06-23,North,Technology,Webcam HD,4,64.59,0.1,232.52,72.43,Returning,UPI
+ORD-1739,2025-06-23,East,Accessories,USB-C Hub,1,37.09,0.2,29.67,10.54,Returning,Credit Card
+ORD-1432,2025-06-24,South,Furniture,Office Chair,5,195.13,0.2,780.52,286.29,Returning,Debit Card
+ORD-1603,2025-06-24,East,Technology,Wireless Headphones,6,78.11,0.0,468.66,193.21,Returning,Credit Card
+ORD-2036,2025-06-26,North,Office Supplies,Pen Set,6,8.31,0.1,44.87,17.05,New,UPI
+ORD-1059,2025-06-27,South,Furniture,Standing Desk,6,411.86,0.0,2471.16,1268.93,Returning,UPI
+ORD-2139,2025-06-27,East,Furniture,Desk Lamp,1,37.36,0.1,33.62,10.05,Returning,UPI
+ORD-1878,2025-06-28,West,Furniture,Standing Desk,5,422.04,0.1,1899.18,817.47,New,Credit Card
+ORD-1062,2025-06-28,South,Furniture,Standing Desk,3,409.26,0.0,1227.78,538.98,Returning,UPI
+ORD-1512,2025-06-29,Central,Accessories,Phone Stand,5,14.38,0.05,68.31,21.62,Returning,Debit Card
+ORD-1391,2025-06-29,West,Office Supplies,Printer Paper,4,6.42,0.15,21.83,6.34,Returning,Credit Card
+ORD-1378,2025-06-29,South,Furniture,Desk Lamp,1,37.59,0.0,37.59,13.0,Returning,Debit Card
+ORD-1360,2025-07-01,Central,Office Supplies,Pen Set,3,8.89,0.05,25.34,7.31,Returning,UPI
+ORD-1463,2025-07-01,West,Furniture,Office Chair,4,195.71,0.05,743.7,288.48,Returning,UPI
+ORD-1895,2025-07-01,North,Accessories,Laptop Sleeve,6,31.95,0.05,182.11,88.56,New,UPI
+ORD-1493,2025-07-04,North,Office Supplies,Pen Set,6,8.8,0.0,52.8,26.74,Returning,UPI
+ORD-2065,2025-07-04,East,Office Supplies,Desk Organizer,3,23.21,0.05,66.15,31.52,Returning,Debit Card
+ORD-2098,2025-07-06,South,Accessories,USB-C Hub,2,37.89,0.0,75.78,29.55,Returning,Net Banking
+ORD-1247,2025-07-07,West,Office Supplies,Notebook Pack,6,13.11,0.0,78.66,24.36,Returning,UPI
+ORD-2073,2025-07-07,North,Furniture,Office Chair,3,175.89,0.1,474.9,190.17,Returning,Net Banking
+ORD-1042,2025-07-08,West,Office Supplies,Printer Paper,5,6.36,0.0,31.8,12.93,Returning,Credit Card
+ORD-1234,2025-07-08,South,Technology,Wireless Headphones,5,81.19,0.15,345.06,122.3,Returning,Debit Card
+ORD-1051,2025-07-09,South,Technology,Laptop Stand,3,42.49,0.0,127.47,43.72,Returning,UPI
+ORD-1014,2025-07-10,East,Technology,Wireless Headphones,4,83.62,0.1,301.03,119.58,Returning,Debit Card
+ORD-2134,2025-07-11,Central,Technology,Webcam HD,5,64.75,0.2,259.0,67.69,New,Net Banking
+ORD-1742,2025-07-11,North,Office Supplies,Notebook Pack,1,14.01,0.0,14.01,4.52,Returning,Credit Card
+ORD-1714,2025-07-12,West,Office Supplies,Desk Organizer,1,23.22,0.1,20.9,8.82,New,Debit Card
+ORD-1207,2025-07-12,East,Furniture,Office Chair,3,198.25,0.05,565.01,233.87,Returning,UPI
+ORD-1489,2025-07-13,South,Technology,Laptop Stand,3,42.74,0.05,121.81,37.55,Returning,UPI
+ORD-1128,2025-07-13,East,Technology,Portable SSD,4,111.13,0.2,355.62,164.21,Returning,Credit Card
+ORD-1423,2025-07-14,South,Technology,Portable SSD,1,122.9,0.05,116.75,57.85,Returning,Credit Card
+ORD-1657,2025-07-14,South,Technology,Webcam HD,5,63.48,0.2,253.92,130.35,New,Debit Card
+ORD-1089,2025-07-15,Central,Accessories,Phone Stand,6,15.4,0.05,87.78,44.35,Returning,Net Banking
+ORD-2148,2025-07-15,East,Technology,Wireless Headphones,4,84.02,0.1,302.47,141.95,Returning,Credit Card
+ORD-1320,2025-07-15,North,Furniture,Bookshelf,1,126.49,0.0,126.49,63.29,Returning,UPI
+ORD-2061,2025-07-17,North,Furniture,Standing Desk,3,381.26,0.0,1143.78,586.9,New,Debit Card
+ORD-1645,2025-07-17,East,Office Supplies,Pen Set,5,9.15,0.0,45.75,21.96,New,Credit Card
+ORD-1911,2025-07-17,South,Technology,Laptop Stand,1,46.49,0.0,46.49,23.4,New,Credit Card
+ORD-1173,2025-07-18,South,Furniture,Standing Desk,6,381.77,0.1,2061.56,575.84,Returning,Credit Card
+ORD-2058,2025-07-18,Central,Office Supplies,Notebook Pack,6,13.69,0.0,82.14,23.0,Returning,Debit Card
+ORD-1370,2025-07-18,Central,Furniture,Office Chair,4,199.08,0.0,796.32,302.99,Returning,UPI
+ORD-1864,2025-07-18,East,Office Supplies,Printer Paper,5,6.85,0.2,27.4,9.48,Returning,UPI
+ORD-1002,2025-07-19,Central,Office Supplies,Desk Organizer,3,22.53,0.05,64.21,15.95,New,Debit Card
+ORD-1734,2025-07-20,Central,Office Supplies,Pen Set,6,9.33,0.0,55.98,14.16,Returning,UPI
+ORD-1836,2025-07-21,Central,Office Supplies,Notebook Pack,1,12.23,0.0,12.23,3.17,Returning,Credit Card
+ORD-1402,2025-07-22,North,Accessories,Wireless Mouse,5,23.54,0.05,111.81,40.48,Returning,UPI
+ORD-1050,2025-07-22,North,Accessories,Phone Stand,2,14.84,0.15,25.23,8.61,Returning,Credit Card
+ORD-1815,2025-07-22,West,Office Supplies,Notebook Pack,4,13.81,0.1,49.72,20.53,New,Debit Card
+ORD-1602,2025-07-23,North,Technology,Portable SSD,5,125.26,0.0,626.3,267.6,Returning,UPI
+ORD-1210,2025-07-23,North,Office Supplies,Printer Paper,6,6.01,0.15,30.65,11.16,Returning,UPI
+ORD-1598,2025-07-23,West,Technology,Portable SSD,5,126.31,0.0,631.55,289.66,Returning,Credit Card
+ORD-1107,2025-07-24,Central,Office Supplies,Desk Organizer,2,22.4,0.1,40.32,11.21,New,Credit Card
+ORD-1112,2025-07-24,West,Accessories,Wireless Mouse,3,26.28,0.0,78.84,26.69,Returning,UPI
+ORD-1766,2025-07-24,South,Furniture,Office Chair,3,178.72,0.05,509.35,204.4,New,Credit Card
+ORD-1806,2025-07-25,Central,Office Supplies,Notebook Pack,2,12.43,0.0,24.86,6.23,Returning,UPI
+ORD-1025,2025-07-25,North,Furniture,Bookshelf,1,126.8,0.0,126.8,65.26,Returning,Debit Card
+ORD-1278,2025-07-26,West,Technology,Webcam HD,4,64.05,0.05,243.39,106.95,New,Net Banking
+ORD-1690,2025-07-26,North,Technology,Wireless Headphones,6,83.35,0.05,475.09,195.61,Returning,Credit Card
+ORD-1918,2025-07-27,South,Technology,Webcam HD,2,61.17,0.0,122.34,57.87,Returning,UPI
+ORD-1160,2025-07-27,South,Accessories,Wireless Mouse,6,26.18,0.15,133.52,59.37,Returning,UPI
+ORD-1613,2025-07-27,East,Accessories,Wireless Mouse,2,24.01,0.0,48.02,22.67,New,UPI
+ORD-1476,2025-07-27,East,Accessories,Phone Stand,5,14.45,0.0,72.25,28.1,Returning,UPI
+ORD-1955,2025-07-28,East,Accessories,Wireless Mouse,4,23.43,0.15,79.66,20.78,Returning,UPI
+ORD-1725,2025-07-28,North,Furniture,Office Chair,1,197.86,0.1,178.07,53.05,Returning,Debit Card
+ORD-1016,2025-07-28,North,Office Supplies,Desk Organizer,3,23.61,0.0,70.83,34.79,New,Credit Card
+ORD-1106,2025-07-29,East,Technology,Portable SSD,1,111.61,0.0,111.61,51.94,Returning,UPI
+ORD-1990,2025-07-29,North,Office Supplies,Pen Set,6,9.08,0.0,54.48,14.16,Returning,Credit Card
+ORD-1249,2025-07-29,South,Technology,Portable SSD,3,113.58,0.0,340.74,134.15,Returning,Net Banking
+ORD-1213,2025-07-30,West,Office Supplies,Printer Paper,1,6.73,0.0,6.73,1.71,Returning,UPI
+ORD-1559,2025-08-02,East,Accessories,Wireless Mouse,4,24.42,0.1,87.91,38.91,New,UPI
+ORD-1639,2025-08-02,East,Office Supplies,Notebook Pack,3,13.7,0.15,34.93,17.6,Returning,UPI
+ORD-2133,2025-08-03,West,Furniture,Desk Lamp,1,34.41,0.15,29.25,12.25,New,Debit Card
+ORD-1261,2025-08-03,West,Accessories,Laptop Sleeve,6,30.39,0.0,182.34,80.25,New,Debit Card
+ORD-1692,2025-08-04,South,Office Supplies,Notebook Pack,1,13.28,0.0,13.28,4.21,New,Credit Card
+ORD-1745,2025-08-04,North,Accessories,Phone Stand,1,14.7,0.0,14.7,4.13,Returning,Credit Card
+ORD-1071,2025-08-04,Central,Technology,Laptop Stand,4,42.6,0.15,144.84,69.36,Returning,UPI
+ORD-1135,2025-08-04,South,Office Supplies,Printer Paper,1,6.95,0.1,6.25,1.98,Returning,UPI
+ORD-1105,2025-08-05,East,Technology,Laptop Stand,1,48.41,0.0,48.41,22.21,Returning,Net Banking
+ORD-1484,2025-08-05,South,Technology,Webcam HD,1,61.51,0.0,61.51,14.9,Returning,Credit Card
+ORD-2012,2025-08-07,North,Technology,Wireless Headphones,5,77.77,0.05,369.41,190.91,Returning,UPI
+ORD-1716,2025-08-07,North,Technology,Wireless Headphones,3,75.0,0.15,191.25,67.45,Returning,UPI
+ORD-1686,2025-08-08,West,Technology,Wireless Headphones,1,74.66,0.05,70.93,34.98,Returning,Credit Card
+ORD-1860,2025-08-08,South,Furniture,Bookshelf,3,130.43,0.0,391.29,150.87,Returning,Net Banking
+ORD-1852,2025-08-08,East,Office Supplies,Printer Paper,2,6.74,0.1,12.13,5.98,Returning,Debit Card
+ORD-2087,2025-08-08,North,Furniture,Office Chair,1,201.12,0.05,191.06,61.72,New,UPI
+ORD-1591,2025-08-08,North,Technology,Webcam HD,4,55.59,0.15,189.01,90.6,Returning,Net Banking
+ORD-1596,2025-08-09,Central,Office Supplies,Notebook Pack,1,13.82,0.0,13.82,3.76,Returning,Debit Card
+ORD-2199,2025-08-09,North,Technology,Portable SSD,1,117.08,0.05,111.23,50.27,Returning,Credit Card
+ORD-1472,2025-08-10,North,Technology,Portable SSD,3,112.67,0.0,338.01,127.3,Returning,Credit Card
+ORD-1428,2025-08-10,North,Technology,Webcam HD,3,62.11,0.0,186.33,85.33,New,Net Banking
+ORD-1551,2025-08-10,South,Technology,Portable SSD,4,113.59,0.1,408.92,207.62,Returning,Debit Card
+ORD-1654,2025-08-11,West,Furniture,Desk Lamp,1,33.58,0.1,30.22,11.27,Returning,Credit Card
+ORD-1092,2025-08-11,Central,Technology,Portable SSD,1,119.92,0.1,107.93,39.91,Returning,Debit Card
+ORD-1103,2025-08-11,East,Office Supplies,Pen Set,4,9.67,0.15,32.88,10.61,Returning,UPI
+ORD-2001,2025-08-13,South,Office Supplies,Desk Organizer,1,23.71,0.0,23.71,7.93,New,Debit Card
+ORD-1291,2025-08-13,East,Accessories,Laptop Sleeve,1,30.83,0.0,30.83,15.51,Returning,UPI
+ORD-1837,2025-08-13,North,Office Supplies,Desk Organizer,2,21.17,0.0,42.34,12.19,Returning,Net Banking
+ORD-1336,2025-08-13,West,Office Supplies,Pen Set,1,8.41,0.0,8.41,3.92,Returning,UPI
+ORD-1227,2025-08-14,East,Furniture,Standing Desk,6,430.36,0.1,2323.94,937.16,Returning,Credit Card
+ORD-1885,2025-08-17,Central,Accessories,Laptop Sleeve,3,30.13,0.05,85.87,38.27,Returning,Net Banking
+ORD-1166,2025-08-18,North,Office Supplies,Printer Paper,2,6.34,0.05,12.05,5.51,New,Debit Card
+ORD-1514,2025-08-19,South,Technology,Webcam HD,2,59.3,0.0,118.6,56.11,Returning,Credit Card
+ORD-1741,2025-08-20,Central,Accessories,USB-C Hub,3,38.2,0.0,114.6,48.6,New,Credit Card
+ORD-1849,2025-08-22,South,Technology,Wireless Headphones,5,75.24,0.05,357.39,182.39,New,Credit Card
+ORD-1867,2025-08-22,North,Furniture,Bookshelf,2,121.4,0.0,242.8,99.66,New,Net Banking
+ORD-2025,2025-08-23,East,Furniture,Standing Desk,5,405.92,0.05,1928.12,744.87,New,UPI
+ORD-1149,2025-08-23,North,Technology,Webcam HD,6,61.78,0.0,370.68,103.87,Returning,Credit Card
+ORD-1028,2025-08-24,East,Accessories,Wireless Mouse,4,24.08,0.1,86.69,43.85,New,Debit Card
+ORD-1524,2025-08-25,West,Accessories,Phone Stand,6,15.59,0.0,93.54,45.06,Returning,Credit Card
+ORD-1605,2025-08-26,North,Office Supplies,Pen Set,3,8.4,0.1,22.68,6.52,Returning,Credit Card
+ORD-1794,2025-08-26,Central,Furniture,Bookshelf,5,134.45,0.1,605.02,193.43,Returning,Net Banking
+ORD-1433,2025-08-26,West,Furniture,Desk Lamp,6,36.67,0.0,220.02,54.85,New,UPI
+ORD-2040,2025-08-27,North,Office Supplies,Printer Paper,3,6.24,0.05,17.78,6.58,Returning,Debit Card
+ORD-1302,2025-08-27,West,Technology,Webcam HD,5,63.73,0.0,318.65,97.7,New,Debit Card
+ORD-1038,2025-08-27,South,Technology,Laptop Stand,2,45.15,0.0,90.3,35.11,New,UPI
+ORD-1553,2025-08-28,West,Office Supplies,Desk Organizer,3,21.77,0.1,58.78,15.43,Returning,UPI
+ORD-1334,2025-08-29,North,Furniture,Office Chair,2,198.0,0.0,396.0,100.41,Returning,UPI
+ORD-1482,2025-08-29,West,Office Supplies,Printer Paper,1,6.98,0.15,5.93,2.0,Returning,UPI
+ORD-1545,2025-08-30,South,Technology,Webcam HD,6,57.46,0.0,344.76,96.39,New,Debit Card
+ORD-1388,2025-08-30,South,Furniture,Standing Desk,1,395.51,0.0,395.51,107.84,Returning,Debit Card
+ORD-1090,2025-08-31,North,Office Supplies,Desk Organizer,1,22.62,0.0,22.62,8.2,Returning,Debit Card
+ORD-1101,2025-08-31,South,Furniture,Bookshelf,1,126.05,0.2,100.84,47.09,Returning,Credit Card
+ORD-1084,2025-08-31,East,Office Supplies,Desk Organizer,5,23.67,0.0,118.35,45.02,Returning,UPI
+ORD-1582,2025-09-01,West,Technology,Portable SSD,5,111.58,0.05,530.0,237.29,Returning,Net Banking
+ORD-1611,2025-09-01,Central,Technology,Wireless Headphones,1,78.28,0.0,78.28,21.33,Returning,Credit Card
+ORD-2097,2025-09-02,Central,Accessories,USB-C Hub,5,37.33,0.15,158.65,51.53,Returning,Credit Card
+ORD-1816,2025-09-03,Central,Furniture,Standing Desk,1,423.57,0.2,338.86,148.61,New,UPI
+ORD-1589,2025-09-03,South,Technology,Laptop Stand,4,43.51,0.2,139.23,65.23,Returning,Credit Card
+ORD-2080,2025-09-03,West,Office Supplies,Desk Organizer,6,21.3,0.0,127.8,53.55,Returning,Net Banking
+ORD-1868,2025-09-04,South,Office Supplies,Pen Set,5,8.66,0.0,43.3,11.04,Returning,Net Banking
+ORD-2016,2025-09-04,Central,Accessories,Wireless Mouse,3,25.99,0.1,70.17,26.53,Returning,UPI
+ORD-2086,2025-09-05,North,Accessories,USB-C Hub,6,37.93,0.05,216.2,82.89,Returning,UPI
+ORD-1019,2025-09-05,Central,Office Supplies,Pen Set,3,8.89,0.0,26.67,8.04,New,UPI
+ORD-2125,2025-09-06,South,Accessories,Wireless Mouse,4,24.93,0.05,94.73,44.45,Returning,UPI
+ORD-1963,2025-09-06,South,Office Supplies,Notebook Pack,2,12.67,0.0,25.34,8.18,New,UPI
+ORD-1459,2025-09-06,West,Office Supplies,Printer Paper,4,6.82,0.05,25.92,7.72,Returning,UPI
+ORD-1513,2025-09-06,South,Furniture,Office Chair,3,198.37,0.05,565.35,139.24,New,UPI
+ORD-1093,2025-09-07,West,Technology,Webcam HD,4,58.79,0.15,199.89,98.28,Returning,UPI
+ORD-2024,2025-09-07,West,Office Supplies,Notebook Pack,2,13.32,0.1,23.98,10.26,Returning,Debit Card
+ORD-1590,2025-09-08,Central,Furniture,Desk Lamp,4,34.41,0.0,137.64,70.03,Returning,UPI
+ORD-2126,2025-09-08,Central,Office Supplies,Desk Organizer,2,21.61,0.1,38.9,18.24,Returning,UPI
+ORD-2093,2025-09-08,North,Furniture,Bookshelf,4,126.08,0.05,479.1,241.91,Returning,Credit Card
+ORD-1723,2025-09-09,Central,Furniture,Standing Desk,6,397.61,0.0,2385.66,769.12,Returning,Debit Card
+ORD-2144,2025-09-09,North,Accessories,USB-C Hub,5,42.51,0.1,191.29,54.59,Returning,Net Banking
+ORD-1775,2025-09-10,North,Office Supplies,Printer Paper,4,6.55,0.1,23.58,7.16,Returning,Credit Card
+ORD-1865,2025-09-10,West,Technology,Portable SSD,5,120.23,0.1,541.03,149.48,New,Credit Card
+ORD-1361,2025-09-10,West,Furniture,Desk Lamp,5,35.34,0.15,150.2,48.67,Returning,Debit Card
+ORD-1477,2025-09-11,North,Accessories,Phone Stand,1,13.92,0.0,13.92,4.34,New,Debit Card
+ORD-2163,2025-09-11,North,Office Supplies,Desk Organizer,5,23.47,0.1,105.61,48.25,Returning,UPI
+ORD-1856,2025-09-12,West,Accessories,Laptop Sleeve,5,28.33,0.1,127.48,64.56,Returning,UPI
+ORD-1650,2025-09-12,Central,Technology,Wireless Headphones,1,81.6,0.1,73.44,27.51,Returning,UPI
+ORD-1297,2025-09-13,Central,Office Supplies,Desk Organizer,2,22.52,0.05,42.79,20.72,Returning,Debit Card
+ORD-2007,2025-09-13,North,Furniture,Office Chair,4,203.63,0.0,814.52,200.12,New,Credit Card
+ORD-2158,2025-09-13,East,Office Supplies,Notebook Pack,4,12.99,0.05,49.36,23.55,New,Net Banking
+ORD-1780,2025-09-13,West,Technology,Webcam HD,6,56.75,0.05,323.47,163.14,Returning,Net Banking
+ORD-2150,2025-09-14,South,Technology,Webcam HD,1,61.03,0.0,61.03,31.43,New,UPI
+ORD-1882,2025-09-14,North,Furniture,Bookshelf,5,124.22,0.1,558.99,208.0,New,Debit Card
+ORD-1560,2025-09-14,North,Furniture,Bookshelf,4,124.24,0.2,397.57,152.42,New,Debit Card
+ORD-1146,2025-09-15,North,Furniture,Bookshelf,2,121.46,0.0,242.92,118.15,Returning,Credit Card
+ORD-2127,2025-09-16,South,Accessories,USB-C Hub,3,41.24,0.2,98.98,33.92,New,UPI
+ORD-1835,2025-09-16,West,Technology,Webcam HD,2,62.46,0.1,112.43,46.11,Returning,Debit Card
+ORD-1643,2025-09-16,West,Office Supplies,Desk Organizer,5,21.57,0.15,91.67,29.2,Returning,Net Banking
+ORD-1125,2025-09-17,North,Accessories,Phone Stand,3,15.42,0.15,39.32,18.33,Returning,Credit Card
+ORD-1151,2025-09-17,West,Office Supplies,Notebook Pack,4,13.39,0.0,53.56,17.73,New,UPI
+ORD-2042,2025-09-18,Central,Furniture,Standing Desk,3,385.99,0.1,1042.17,500.68,Returning,Net Banking
+ORD-1232,2025-09-18,West,Office Supplies,Desk Organizer,4,22.76,0.1,81.94,27.89,Returning,UPI
+ORD-1610,2025-09-18,South,Accessories,Phone Stand,2,14.1,0.1,25.38,11.71,Returning,Net Banking
+ORD-1037,2025-09-19,North,Technology,Laptop Stand,5,48.26,0.0,241.3,109.02,Returning,Net Banking
+ORD-1006,2025-09-19,Central,Office Supplies,Pen Set,5,8.61,0.0,43.05,14.89,New,UPI
+ORD-1668,2025-09-21,East,Technology,Portable SSD,3,126.44,0.1,341.39,111.3,New,Debit Card
+ORD-1427,2025-09-23,North,Technology,Wireless Headphones,4,75.8,0.0,303.2,78.73,Returning,UPI
+ORD-1829,2025-09-23,Central,Office Supplies,Printer Paper,1,6.3,0.0,6.3,2.94,New,Credit Card
+ORD-2023,2025-09-26,North,Furniture,Office Chair,5,182.01,0.15,773.54,273.16,Returning,Credit Card
+ORD-1504,2025-09-26,South,Technology,Portable SSD,4,116.74,0.15,396.92,184.71,New,UPI
+ORD-1492,2025-09-26,East,Technology,Webcam HD,4,58.23,0.1,209.63,70.62,Returning,Credit Card
+ORD-1921,2025-09-29,West,Technology,Laptop Stand,2,46.5,0.1,83.7,39.76,Returning,Debit Card
+ORD-1396,2025-10-01,West,Accessories,Wireless Mouse,2,23.99,0.0,47.98,24.16,Returning,UPI
+ORD-1558,2025-10-01,North,Office Supplies,Printer Paper,4,6.03,0.1,21.71,10.26,New,Credit Card
+ORD-1781,2025-10-03,North,Office Supplies,Printer Paper,6,6.32,0.1,34.13,12.0,New,UPI
+ORD-1812,2025-10-04,West,Technology,Webcam HD,2,60.7,0.05,115.33,32.94,Returning,Credit Card
+ORD-1517,2025-10-06,South,Office Supplies,Desk Organizer,3,23.45,0.0,70.35,29.82,Returning,Debit Card
+ORD-2141,2025-10-06,West,Office Supplies,Desk Organizer,6,21.54,0.05,122.78,43.02,New,Credit Card
+ORD-1904,2025-10-08,North,Accessories,Laptop Sleeve,2,28.29,0.1,50.92,15.01,Returning,Debit Card
+ORD-1375,2025-10-09,Central,Accessories,Wireless Mouse,1,26.98,0.0,26.98,7.46,Returning,UPI
+ORD-2004,2025-10-09,Central,Furniture,Bookshelf,1,138.43,0.0,138.43,56.05,Returning,UPI
+ORD-1035,2025-10-11,South,Accessories,Phone Stand,3,15.92,0.1,42.98,17.6,Returning,UPI
+ORD-1565,2025-10-11,West,Office Supplies,Pen Set,6,9.6,0.0,57.6,20.25,New,UPI
+ORD-1362,2025-10-13,East,Technology,Portable SSD,3,110.44,0.05,314.75,88.23,New,Debit Card
+ORD-1389,2025-10-13,West,Technology,Wireless Headphones,1,82.17,0.0,82.17,32.63,Returning,Debit Card
+ORD-1358,2025-10-13,West,Accessories,USB-C Hub,6,41.86,0.0,251.16,98.88,New,Credit Card
+ORD-1048,2025-10-14,West,Furniture,Bookshelf,3,123.49,0.05,351.95,85.59,Returning,UPI
+ORD-1364,2025-10-15,South,Office Supplies,Notebook Pack,4,13.63,0.05,51.79,17.05,Returning,Debit Card
+ORD-1579,2025-10-15,South,Furniture,Bookshelf,3,119.68,0.0,359.04,167.3,Returning,Net Banking
+ORD-1828,2025-10-17,North,Office Supplies,Desk Organizer,5,20.92,0.0,104.6,48.13,Returning,Credit Card
+ORD-1304,2025-10-17,South,Furniture,Desk Lamp,1,37.0,0.0,37.0,13.0,Returning,Credit Card
+ORD-1740,2025-10-18,West,Technology,Wireless Headphones,5,79.6,0.0,398.0,125.43,New,Credit Card
+ORD-1095,2025-10-18,East,Technology,Portable SSD,2,110.85,0.15,188.44,70.53,Returning,Credit Card
+ORD-1179,2025-10-20,East,Furniture,Desk Lamp,3,34.31,0.1,92.64,34.41,New,UPI
+ORD-1220,2025-10-21,East,Technology,Laptop Stand,4,47.12,0.05,179.06,68.6,Returning,Credit Card
+ORD-2037,2025-10-21,South,Accessories,Laptop Sleeve,1,30.98,0.1,27.88,8.63,Returning,Credit Card
+ORD-1592,2025-10-21,North,Furniture,Office Chair,3,197.36,0.1,532.87,240.28,New,Debit Card
+ORD-1345,2025-10-23,East,Technology,Wireless Headphones,2,78.15,0.05,148.49,53.91,Returning,Debit Card
+ORD-1067,2025-10-23,West,Office Supplies,Notebook Pack,6,13.02,0.2,62.5,30.83,Returning,UPI
+ORD-2108,2025-10-25,North,Technology,Wireless Headphones,2,86.05,0.05,163.49,44.86,New,Credit Card
+ORD-1843,2025-10-26,South,Office Supplies,Desk Organizer,3,23.4,0.0,70.2,25.76,Returning,Credit Card
+ORD-2154,2025-10-26,East,Furniture,Desk Lamp,1,34.97,0.15,29.72,11.67,Returning,Credit Card
+ORD-1202,2025-10-26,East,Technology,Portable SSD,1,119.13,0.2,95.3,26.27,Returning,Credit Card
+ORD-1840,2025-10-27,Central,Furniture,Standing Desk,4,379.03,0.0,1516.12,419.32,Returning,UPI
+ORD-1943,2025-10-29,South,Office Supplies,Notebook Pack,1,12.62,0.1,11.36,5.01,New,UPI
+ORD-1529,2025-10-31,Central,Furniture,Desk Lamp,3,34.51,0.0,103.53,31.03,Returning,Credit Card
+ORD-1642,2025-10-31,Central,Accessories,Wireless Mouse,2,26.53,0.0,53.06,17.48,New,Net Banking
+ORD-1324,2025-10-31,South,Technology,Webcam HD,1,63.48,0.1,57.13,27.42,New,Credit Card
+ORD-1153,2025-11-01,East,Accessories,Phone Stand,3,15.28,0.05,43.55,11.33,Returning,UPI
+ORD-2170,2025-11-01,North,Accessories,Phone Stand,3,14.93,0.1,40.31,12.56,Returning,UPI
+ORD-1669,2025-11-02,West,Technology,Laptop Stand,2,46.2,0.0,92.4,38.52,New,UPI
+ORD-1804,2025-11-02,Central,Technology,Wireless Headphones,4,76.8,0.05,291.84,101.74,New,Credit Card
+ORD-2103,2025-11-02,North,Furniture,Desk Lamp,5,37.65,0.05,178.84,90.24,Returning,Credit Card
+ORD-1715,2025-11-03,West,Accessories,Phone Stand,1,15.0,0.1,13.5,5.01,Returning,UPI
+ORD-1969,2025-11-03,North,Accessories,USB-C Hub,4,37.69,0.1,135.68,69.67,Returning,Net Banking
+ORD-2081,2025-11-03,East,Furniture,Bookshelf,3,124.85,0.0,374.55,155.54,Returning,UPI
+ORD-1530,2025-11-04,North,Office Supplies,Printer Paper,5,6.83,0.0,34.15,17.05,New,Credit Card
+ORD-2006,2025-11-04,South,Technology,Portable SSD,6,116.52,0.0,699.12,300.62,Returning,Credit Card
+ORD-1733,2025-11-04,West,Furniture,Office Chair,5,196.46,0.05,933.19,426.48,Returning,Credit Card
+ORD-1527,2025-11-05,Central,Furniture,Desk Lamp,4,36.0,0.05,136.8,51.69,Returning,Credit Card
+ORD-1061,2025-11-05,West,Technology,Laptop Stand,6,47.46,0.15,242.05,59.57,Returning,Debit Card
+ORD-2067,2025-11-07,East,Technology,Wireless Headphones,4,82.99,0.0,331.96,133.6,New,Debit Card
+ORD-1264,2025-11-07,West,Office Supplies,Notebook Pack,3,12.43,0.15,31.7,14.97,Returning,Credit Card
+ORD-1452,2025-11-07,North,Furniture,Standing Desk,2,390.82,0.1,703.48,277.3,Returning,Credit Card
+ORD-1586,2025-11-07,North,Accessories,Wireless Mouse,2,24.5,0.2,39.2,18.19,Returning,UPI
+ORD-1577,2025-11-07,Central,Technology,Portable SSD,1,115.1,0.05,109.34,27.38,Returning,UPI
+ORD-1499,2025-11-08,Central,Office Supplies,Printer Paper,5,6.92,0.05,32.87,11.17,New,UPI
+ORD-1024,2025-11-08,East,Accessories,USB-C Hub,3,38.83,0.1,104.84,31.06,New,UPI
+ORD-2182,2025-11-08,South,Accessories,USB-C Hub,5,36.94,0.0,184.7,60.34,Returning,Credit Card
+ORD-1438,2025-11-09,West,Office Supplies,Notebook Pack,4,13.83,0.1,49.79,21.78,Returning,Credit Card
+ORD-1421,2025-11-09,North,Furniture,Standing Desk,1,385.52,0.1,346.97,146.92,Returning,Credit Card
+ORD-1862,2025-11-09,North,Technology,Wireless Headphones,1,86.39,0.2,69.11,21.19,Returning,Debit Card
+ORD-2143,2025-11-11,South,Technology,Laptop Stand,2,46.14,0.1,83.05,31.32,Returning,UPI
+ORD-1693,2025-11-11,North,Accessories,Laptop Sleeve,2,29.73,0.0,59.46,27.77,New,UPI
+ORD-1722,2025-11-11,West,Office Supplies,Notebook Pack,5,12.06,0.15,51.26,12.69,New,Credit Card
+ORD-1470,2025-11-13,South,Office Supplies,Printer Paper,1,6.69,0.15,5.69,1.44,Returning,Debit Card
+ORD-1491,2025-11-13,East,Technology,Portable SSD,3,126.72,0.1,342.14,107.66,Returning,Debit Card
+ORD-1409,2025-11-14,East,Accessories,Laptop Sleeve,2,28.83,0.05,54.78,18.97,New,Credit Card
+ORD-1764,2025-11-15,North,Furniture,Bookshelf,3,130.65,0.0,391.95,137.31,New,Debit Card
+ORD-1754,2025-11-15,West,Technology,Wireless Headphones,6,81.05,0.1,437.67,202.88,Returning,Credit Card
+ORD-1382,2025-11-15,North,Technology,Laptop Stand,6,42.9,0.0,257.4,111.56,New,Credit Card
+ORD-1680,2025-11-15,South,Technology,Laptop Stand,1,47.7,0.2,38.16,10.1,New,UPI
+ORD-1348,2025-11-15,Central,Technology,Portable SSD,6,128.71,0.05,733.65,322.59,Returning,UPI
+ORD-1181,2025-11-16,North,Technology,Webcam HD,5,64.11,0.1,288.5,70.77,Returning,UPI
+ORD-1286,2025-11-16,South,Technology,Wireless Headphones,1,77.8,0.05,73.91,27.08,New,Net Banking
+ORD-1319,2025-11-17,North,Accessories,Wireless Mouse,4,25.84,0.1,93.02,26.01,New,UPI
+ORD-1081,2025-11-18,South,Accessories,USB-C Hub,2,37.14,0.0,74.28,31.19,Returning,Credit Card
+ORD-1936,2025-11-18,West,Technology,Portable SSD,4,121.48,0.0,485.92,235.55,Returning,Credit Card
+ORD-2109,2025-11-18,South,Accessories,USB-C Hub,2,40.76,0.0,81.52,29.7,Returning,Credit Card
+ORD-1926,2025-11-22,West,Office Supplies,Notebook Pack,6,12.0,0.0,72.0,21.8,Returning,Debit Card
+ORD-1694,2025-11-22,West,Office Supplies,Printer Paper,4,6.31,0.1,22.72,5.97,Returning,Debit Card
+ORD-1383,2025-11-23,Central,Technology,Webcam HD,3,55.74,0.15,142.14,65.45,Returning,Debit Card
+ORD-1949,2025-11-23,West,Furniture,Office Chair,6,187.35,0.0,1124.1,388.14,Returning,Debit Card
+ORD-1763,2025-11-24,East,Furniture,Desk Lamp,1,35.31,0.1,31.78,14.44,Returning,Credit Card
+ORD-1965,2025-11-24,Central,Technology,Wireless Headphones,2,80.59,0.0,161.18,42.35,New,UPI
+ORD-1571,2025-11-24,West,Accessories,Wireless Mouse,6,24.65,0.0,147.9,50.04,New,Debit Card
+ORD-1640,2025-11-24,Central,Accessories,Phone Stand,5,14.27,0.0,71.35,20.6,New,Credit Card
+ORD-1776,2025-11-26,West,Furniture,Desk Lamp,4,34.32,0.05,130.42,35.5,Returning,Net Banking
+ORD-1340,2025-11-27,North,Office Supplies,Desk Organizer,4,20.46,0.0,81.84,25.66,New,UPI
+ORD-1671,2025-11-27,South,Technology,Wireless Headphones,1,77.56,0.05,73.68,23.99,Returning,Credit Card
+ORD-1293,2025-11-28,South,Furniture,Standing Desk,1,368.71,0.0,368.71,89.87,Returning,Credit Card
+ORD-1448,2025-11-29,North,Office Supplies,Printer Paper,6,6.9,0.1,37.26,11.8,Returning,UPI
+ORD-1684,2025-12-01,North,Furniture,Bookshelf,6,124.3,0.05,708.51,311.13,Returning,Credit Card
+ORD-2054,2025-12-01,North,Office Supplies,Notebook Pack,4,13.67,0.1,49.21,25.27,New,Net Banking
+ORD-1274,2025-12-01,South,Technology,Webcam HD,5,60.37,0.1,271.66,70.15,Returning,Credit Card
+ORD-2083,2025-12-01,North,Office Supplies,Notebook Pack,6,12.84,0.0,77.04,18.82,Returning,Debit Card
+ORD-1195,2025-12-02,South,Accessories,Laptop Sleeve,5,31.7,0.1,142.65,70.27,Returning,Credit Card
+ORD-1451,2025-12-02,West,Technology,Wireless Headphones,5,81.45,0.0,407.25,126.68,New,Credit Card
+ORD-1683,2025-12-02,South,Technology,Portable SSD,4,127.42,0.1,458.71,156.96,New,UPI
+ORD-1515,2025-12-02,East,Office Supplies,Pen Set,6,8.55,0.05,48.73,20.64,Returning,Credit Card
+ORD-1751,2025-12-03,North,Technology,Webcam HD,1,56.73,0.0,56.73,17.87,Returning,Credit Card
+ORD-1649,2025-12-03,East,Technology,Wireless Headphones,5,84.02,0.15,357.08,104.52,Returning,Debit Card
+ORD-1503,2025-12-04,Central,Technology,Laptop Stand,4,45.08,0.05,171.3,78.75,Returning,Net Banking
+ORD-1200,2025-12-04,East,Office Supplies,Pen Set,1,9.44,0.05,8.97,4.49,New,Debit Card
+ORD-1999,2025-12-04,West,Accessories,Laptop Sleeve,3,29.69,0.0,89.07,34.19,Returning,Credit Card
+ORD-1853,2025-12-05,North,Technology,Wireless Headphones,6,74.83,0.05,426.53,209.18,New,UPI
+ORD-1337,2025-12-05,East,Technology,Wireless Headphones,3,82.81,0.0,248.43,88.91,Returning,Net Banking
+ORD-1466,2025-12-07,East,Accessories,Phone Stand,4,13.93,0.1,50.15,23.25,New,Debit Card
+ORD-1609,2025-12-07,North,Technology,Laptop Stand,5,42.41,0.1,190.84,71.54,Returning,Credit Card
+ORD-1797,2025-12-08,Central,Office Supplies,Desk Organizer,4,21.5,0.1,77.4,34.86,Returning,Credit Card
+ORD-1861,2025-12-08,West,Office Supplies,Pen Set,6,9.38,0.05,53.47,23.41,New,Credit Card
+ORD-1064,2025-12-08,North,Technology,Portable SSD,5,117.88,0.0,589.4,141.69,New,UPI
+ORD-1355,2025-12-09,South,Accessories,Wireless Mouse,2,25.24,0.0,50.48,21.6,New,UPI
+ORD-1208,2025-12-09,Central,Accessories,Phone Stand,5,14.82,0.0,74.1,24.04,Returning,Credit Card
+ORD-1417,2025-12-09,North,Technology,Wireless Headphones,6,81.09,0.05,462.21,174.32,Returning,Credit Card
+ORD-1046,2025-12-10,East,Office Supplies,Desk Organizer,3,20.67,0.0,62.01,15.71,Returning,Credit Card
+ORD-1404,2025-12-11,East,Office Supplies,Pen Set,4,8.74,0.0,34.96,9.02,Returning,UPI
+ORD-1959,2025-12-11,South,Office Supplies,Printer Paper,6,6.17,0.15,31.47,9.92,Returning,Credit Card
+ORD-1947,2025-12-12,East,Technology,Wireless Headphones,3,82.42,0.2,197.81,70.06,New,Net Banking
+ORD-1441,2025-12-12,North,Accessories,Laptop Sleeve,5,29.44,0.15,125.12,30.15,Returning,UPI
+ORD-1325,2025-12-13,North,Office Supplies,Pen Set,5,8.83,0.1,39.73,14.49,New,Net Banking
+ORD-1012,2025-12-14,South,Office Supplies,Printer Paper,4,6.9,0.0,27.6,12.54,Returning,UPI
+ORD-1914,2025-12-17,South,Accessories,Wireless Mouse,2,26.3,0.1,47.34,17.87,Returning,Credit Card
+ORD-1594,2025-12-17,North,Furniture,Desk Lamp,1,36.38,0.1,32.74,10.92,Returning,Debit Card
+ORD-1894,2025-12-17,West,Accessories,Laptop Sleeve,4,30.68,0.05,116.58,51.23,Returning,Credit Card
+ORD-1851,2025-12-17,North,Office Supplies,Pen Set,2,9.01,0.0,18.02,6.64,Returning,UPI
+ORD-2198,2025-12-18,East,Technology,Portable SSD,5,123.08,0.0,615.4,169.57,New,Credit Card
+ORD-1141,2025-12-19,North,Technology,Laptop Stand,2,45.45,0.1,81.81,31.19,New,Debit Card
+ORD-1555,2025-12-20,North,Technology,Webcam HD,4,57.09,0.1,205.52,55.33,Returning,Debit Card
+ORD-1772,2025-12-22,Central,Accessories,Wireless Mouse,3,25.32,0.0,75.96,29.62,Returning,UPI
+ORD-2082,2025-12-24,West,Office Supplies,Notebook Pack,5,12.66,0.0,63.3,20.42,Returning,Credit Card
+ORD-1265,2025-12-24,Central,Technology,Webcam HD,1,57.36,0.15,48.76,18.49,New,UPI
+ORD-2088,2025-12-24,South,Technology,Portable SSD,6,112.21,0.1,605.93,181.38,New,UPI
+ORD-1347,2025-12-25,North,Technology,Laptop Stand,3,41.65,0.15,106.21,29.8,Returning,UPI
+ORD-1145,2025-12-26,Central,Accessories,Phone Stand,5,15.18,0.0,75.9,36.47,Returning,Net Banking
+ORD-1356,2025-12-26,South,Technology,Webcam HD,2,58.69,0.0,117.38,32.15,Returning,Debit Card
+ORD-2056,2025-12-28,North,Technology,Wireless Headphones,1,81.36,0.0,81.36,35.3,New,UPI
+ORD-1511,2025-12-28,South,Accessories,Phone Stand,1,15.56,0.1,14.0,3.37,New,UPI
+ORD-2117,2025-12-28,East,Accessories,USB-C Hub,2,40.88,0.05,77.67,19.46,Returning,UPI
+ORD-1161,2025-12-29,South,Office Supplies,Printer Paper,4,6.75,0.05,25.65,10.94,New,Credit Card
+ORD-1810,2025-12-29,Central,Furniture,Desk Lamp,4,34.78,0.1,125.21,57.12,New,Net Banking
+ORD-1691,2025-12-29,South,Technology,Portable SSD,3,116.95,0.1,315.77,158.34,New,Credit Card
+ORD-1401,2025-12-30,North,Technology,Laptop Stand,2,42.67,0.0,85.34,43.9,Returning,UPI
+ORD-2169,2025-12-30,East,Furniture,Office Chair,1,182.12,0.1,163.91,56.24,New,Net Banking
+ORD-1820,2025-12-31,Central,Accessories,Phone Stand,4,15.58,0.1,56.09,15.73,New,Credit Card
